@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+/*
+ * Minimal, research-oriented visual design.
+ *
+ * Colours are chosen so the shadow geometry is the only strong visual element
+ * against a quiet base map. No gradients, glows, or decorative animation.
+ */
+
+:root {
+  --background: #f4f4f2;
+  --foreground: #1a1a1a;
+  --panel: #ffffff;
+  --panel-border: #dcdcd6;
+  --muted: #6b6b66;
+  --accent: #1f4b99;
+  --night: #1b2440;
+  --warn: #8a5a00;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-panel: var(--panel);
+  --color-panel-border: var(--panel-border);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-night: var(--night);
+  --color-warn: var(--warn);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Numeric readouts use a tabular style so digits do not jitter as the
+   timeline advances. */
+.tnum {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.mapboxgl-ctrl-attrib {
+  font-size: 10px;
+}
+
+.mapboxgl-ctrl-group {
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.15);
+}

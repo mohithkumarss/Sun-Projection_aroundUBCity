@@ -1,0 +1,77 @@
+{
+ "type": "FeatureCollection",
+ "name": "UB City study area",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "properties": {
+  "study_area_name": "UB City, Bengaluru, Karnataka, India",
+  "bbox_wgs84": [
+   77.5943,
+   12.9701,
+   77.5968,
+   12.9729
+  ],
+  "bbox_metric_epsg32643": [
+   781452.016,
+   1435262.583,
+   781720.993,
+   1435573.66
+  ],
+  "extent_east_m": 270.7,
+  "extent_north_m": 310.5,
+  "selection_rationale": "Derived from the bounding box of the real OSM building cluster returned for the Nominatim geocode of UB City, padded by 10 m so that shadow polygons falling outside the built footprints remain visible. The resulting extent is compared against the 200-300 m target in the assignment.",
+  "seed_bbox_used_for_query": [
+   77.5945,
+   12.971,
+   77.5965,
+   12.9725
+  ],
+  "area_m2": 84052.3,
+  "crs": "EPSG:4326"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "study_area_name": "UB City, Bengaluru, Karnataka, India",
+    "bbox_wgs84": [
+     77.5943,
+     12.9701,
+     77.5968,
+     12.9729
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5943,
+       12.9701
+      ],
+      [
+       77.5968,
+       12.9701
+      ],
+      [
+       77.5968,
+       12.9729
+      ],
+      [
+       77.5943,
+       12.9729
+      ],
+      [
+       77.5943,
+       12.9701
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

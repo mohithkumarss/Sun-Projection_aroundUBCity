@@ -1,0 +1,7252 @@
+{
+ "version": "0.6",
+ "generator": "openstreetmap-cgimap 2.1.0 (244693 spike-07.openstreetmap.org)",
+ "copyright": "OpenStreetMap and contributors",
+ "attribution": "http://www.openstreetmap.org/copyright",
+ "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+ "bounds": {
+  "minlat": 12.971,
+  "minlon": 77.5945,
+  "maxlat": 12.9725,
+  "maxlon": 77.5965
+ },
+ "elements": [
+  {
+   "type": "node",
+   "id": 248459840,
+   "lat": 12.9712043,
+   "lon": 77.5977545,
+   "timestamp": "2025-03-05T05:04:32Z",
+   "version": 10,
+   "changeset": 163228178,
+   "user": "sambreen",
+   "uid": 19574772
+  },
+  {
+   "type": "node",
+   "id": 248459846,
+   "lat": 12.9711815,
+   "lon": 77.596426,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 5,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815979,
+   "lat": 12.9685229,
+   "lon": 77.5947891,
+   "timestamp": "2024-08-18T16:47:25Z",
+   "version": 5,
+   "changeset": 155424650,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815980,
+   "lat": 12.9686018,
+   "lon": 77.5952952,
+   "timestamp": "2024-08-19T04:23:05Z",
+   "version": 7,
+   "changeset": 155441417,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815981,
+   "lat": 12.9712348,
+   "lon": 77.595981,
+   "timestamp": "2013-03-07T14:04:15Z",
+   "version": 3,
+   "changeset": 15282456,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 459815982,
+   "lat": 12.9717834,
+   "lon": 77.5946687,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815983,
+   "lat": 12.97098,
+   "lon": 77.5942778,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 4,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815985,
+   "lat": 12.9703161,
+   "lon": 77.5962681,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 6,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815988,
+   "lat": 12.9717341,
+   "lon": 77.5952057,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 5,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 459815990,
+   "lat": 12.972257,
+   "lon": 77.5969489,
+   "timestamp": "2022-12-28T11:41:22Z",
+   "version": 6,
+   "changeset": 130597020,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815991,
+   "lat": 12.9725485,
+   "lon": 77.5961756,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 459815992,
+   "lat": 12.9731311,
+   "lon": 77.5964365,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 4,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 638168606,
+   "lat": 12.971852,
+   "lon": 77.5964092,
+   "timestamp": "2024-08-19T05:40:28Z",
+   "version": 6,
+   "changeset": 155442775,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:country": "IN",
+    "addr:hamlet": "UB City",
+    "addr:housename": "Comet",
+    "addr:postcode": "560001",
+    "addr:street": "Vittal Mallaya Road",
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "contact:instagram": "experienceshiro",
+    "cuisine": "asian",
+    "level": "3",
+    "name": "Shiro",
+    "name:kn": "\u0cb6\u0cbf\u0cb0\u0cca"
+   }
+  },
+  {
+   "type": "node",
+   "id": 663573132,
+   "lat": 12.9712726,
+   "lon": 77.5963037,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 4,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 665065742,
+   "lat": 12.9716761,
+   "lon": 77.5940936,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 3,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 677286831,
+   "lat": 12.9711284,
+   "lon": 77.5959911,
+   "timestamp": "2011-12-22T00:23:09Z",
+   "version": 3,
+   "changeset": 10176384,
+   "user": "SathishG",
+   "uid": 572874,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:street": "Lavelle Road",
+    "name": "LimeLite Unisex Salon & Spa",
+    "shop": "hairdresser"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1232939382,
+   "lat": 12.9730443,
+   "lon": 77.5949282,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 1232939387,
+   "lat": 12.9723135,
+   "lon": 77.5943298,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 1232939392,
+   "lat": 12.9711388,
+   "lon": 77.5969022,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 6,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1232939416,
+   "lat": 12.9728319,
+   "lon": 77.5954329,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 4,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 1232939435,
+   "lat": 12.9721667,
+   "lon": 77.5967915,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1232939458,
+   "lat": 12.9725427,
+   "lon": 77.5955431,
+   "timestamp": "2011-04-04T20:41:27Z",
+   "version": 1,
+   "changeset": 7767885,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 1232939464,
+   "lat": 12.971999,
+   "lon": 77.5947672,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 8,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1232939467,
+   "lat": 12.9720993,
+   "lon": 77.5943865,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 1232939482,
+   "lat": 12.9719219,
+   "lon": 77.594955,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 8,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1232939483,
+   "lat": 12.9727004,
+   "lon": 77.594864,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 8,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1557709035,
+   "lat": 12.9725726,
+   "lon": 77.5957141,
+   "timestamp": "2017-07-10T01:57:20Z",
+   "version": 4,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742
+  },
+  {
+   "type": "node",
+   "id": 1557709050,
+   "lat": 12.9716247,
+   "lon": 77.5952798,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 5,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 1842803345,
+   "lat": 12.9703624,
+   "lon": 77.5960681,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 3,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 1851612837,
+   "lat": 12.9717891,
+   "lon": 77.5962374,
+   "timestamp": "2024-08-19T05:40:28Z",
+   "version": 2,
+   "changeset": 155442775,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "italian",
+    "name": "Toscano",
+    "outdoor_seating": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1851613420,
+   "lat": 12.9719381,
+   "lon": 77.5958753,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 7,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "brand": "Cafe Noir",
+    "brand:wikidata": "Q124374751",
+    "check_date": "2024-08-19",
+    "cuisine": "french",
+    "delivery": "yes",
+    "name": "Cafe Noir",
+    "name:kn": "\u0c95\u0cab\u0cc6 \u0ca8\u0cbe\u0cb0\u0ccd\u0caf\u0ccd",
+    "takeaway": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2189683195,
+   "lat": 12.9718044,
+   "lon": 77.5941003,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 2189683198,
+   "lat": 12.9719348,
+   "lon": 77.5942744,
+   "timestamp": "2013-03-07T14:04:07Z",
+   "version": 1,
+   "changeset": 15282456,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 2189683201,
+   "lat": 12.9721669,
+   "lon": 77.5943262,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 2189718252,
+   "lat": 12.9734027,
+   "lon": 77.5957811,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 3361712098,
+   "lat": 12.9715333,
+   "lon": 77.5963921,
+   "timestamp": "2024-08-19T05:40:28Z",
+   "version": 2,
+   "changeset": 155442775,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:street": "Vittal Mallya Road",
+    "amenity": "bar",
+    "check_date": "2024-08-19",
+    "name": "Skyye",
+    "outdoor_seating": "yes",
+    "smoking": "separated"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3382418353,
+   "lat": 12.9710619,
+   "lon": 77.5964067,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382418354,
+   "lat": 12.9711273,
+   "lon": 77.5961801,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382418355,
+   "lat": 12.9711345,
+   "lon": 77.5961393,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382418356,
+   "lat": 12.9711732,
+   "lon": 77.5959917,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382419034,
+   "lat": 12.9708511,
+   "lon": 77.5963427,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382419036,
+   "lat": 12.9709164,
+   "lon": 77.5961161,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382419039,
+   "lat": 12.9709549,
+   "lon": 77.5960897,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3382419044,
+   "lat": 12.9709936,
+   "lon": 77.5959421,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3384460219,
+   "lat": 12.9712152,
+   "lon": 77.5967805,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 4,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3384460248,
+   "lat": 12.9728076,
+   "lon": 77.5952576,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 3455201631,
+   "lat": 12.9718609,
+   "lon": 77.5957304,
+   "timestamp": "2022-09-22T20:59:43Z",
+   "version": 4,
+   "changeset": 126521801,
+   "user": "indigomc",
+   "uid": 136860,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Citibank",
+    "brand:wikidata": "Q857063",
+    "fee": "no",
+    "name": "Citibank",
+    "name:kn": "\u0cb8\u0cbf\u0c9f\u0cbf\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd",
+    "operator": "Citibank",
+    "operator:wikidata": "Q857063",
+    "short_name": "Citi"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3455202528,
+   "lat": 12.9720647,
+   "lon": 77.5960299,
+   "timestamp": "2017-07-10T01:57:21Z",
+   "version": 2,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742,
+   "tags": {
+    "amenity": "fountain"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3474511230,
+   "lat": 12.9723777,
+   "lon": 77.5948332,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 6,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3474511232,
+   "lat": 12.9724992,
+   "lon": 77.594844,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 6,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3474511234,
+   "lat": 12.9725013,
+   "lon": 77.594833,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 6,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3474511236,
+   "lat": 12.9726217,
+   "lon": 77.5948736,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 6,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3681719432,
+   "lat": 12.9724644,
+   "lon": 77.5961039,
+   "timestamp": "2015-08-05T06:12:42Z",
+   "version": 1,
+   "changeset": 33118462,
+   "user": "maheshrkm",
+   "uid": 2897465
+  },
+  {
+   "type": "node",
+   "id": 3685624480,
+   "lat": 12.9713855,
+   "lon": 77.596322,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624483,
+   "lat": 12.9714591,
+   "lon": 77.5963562,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624484,
+   "lat": 12.9715372,
+   "lon": 77.5959732,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624485,
+   "lat": 12.9715413,
+   "lon": 77.5966566,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 4,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 3685624486,
+   "lat": 12.971695,
+   "lon": 77.5957336,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624487,
+   "lat": 12.9716115,
+   "lon": 77.5960081,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 4,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 3685624489,
+   "lat": 12.9716208,
+   "lon": 77.5965095,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624490,
+   "lat": 12.971652,
+   "lon": 77.5958219,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624493,
+   "lat": 12.9716799,
+   "lon": 77.5963759,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624496,
+   "lat": 12.9717601,
+   "lon": 77.595855,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624498,
+   "lat": 12.9718011,
+   "lon": 77.5954568,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624501,
+   "lat": 12.9718907,
+   "lon": 77.5964724,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624502,
+   "lat": 12.9719092,
+   "lon": 77.5958873,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624503,
+   "lat": 12.9719229,
+   "lon": 77.5963982,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624504,
+   "lat": 12.9719684,
+   "lon": 77.5966685,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624505,
+   "lat": 12.9719865,
+   "lon": 77.596627,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624506,
+   "lat": 12.9719892,
+   "lon": 77.5966539,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624507,
+   "lat": 12.972007,
+   "lon": 77.5966879,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624508,
+   "lat": 12.9720277,
+   "lon": 77.5964462,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624509,
+   "lat": 12.9720435,
+   "lon": 77.5955861,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624510,
+   "lat": 12.9720361,
+   "lon": 77.5967123,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624511,
+   "lat": 12.9720721,
+   "lon": 77.5967234,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624512,
+   "lat": 12.9721095,
+   "lon": 77.5967195,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624513,
+   "lat": 12.9721426,
+   "lon": 77.5967012,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624514,
+   "lat": 12.9721664,
+   "lon": 77.5966713,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624515,
+   "lat": 12.9721734,
+   "lon": 77.596596,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624516,
+   "lat": 12.9721757,
+   "lon": 77.5961055,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624517,
+   "lat": 12.9721772,
+   "lon": 77.5966344,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624518,
+   "lat": 12.9721973,
+   "lon": 77.5965837,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624519,
+   "lat": 12.9722027,
+   "lon": 77.5965667,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624520,
+   "lat": 12.9722134,
+   "lon": 77.5965425,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624521,
+   "lat": 12.9722263,
+   "lon": 77.5965124,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3685624522,
+   "lat": 12.9723653,
+   "lon": 77.5961922,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3765997157,
+   "lat": 12.9719947,
+   "lon": 77.5951996,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3765997158,
+   "lat": 12.9720349,
+   "lon": 77.5949764,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3765997159,
+   "lat": 12.9725736,
+   "lon": 77.5953737,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3765997160,
+   "lat": 12.9726772,
+   "lon": 77.595146,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3766731036,
+   "lat": 12.9723803,
+   "lon": 77.5948197,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3766731037,
+   "lat": 12.9726558,
+   "lon": 77.5948812,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3768523282,
+   "lat": 12.970232,
+   "lon": 77.5947037,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523283,
+   "lat": 12.970232,
+   "lon": 77.5954551,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523284,
+   "lat": 12.9702588,
+   "lon": 77.595206,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523285,
+   "lat": 12.9702684,
+   "lon": 77.5950294,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523287,
+   "lat": 12.9705131,
+   "lon": 77.5947055,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523289,
+   "lat": 12.9711691,
+   "lon": 77.595647,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3768523290,
+   "lat": 12.9714932,
+   "lon": 77.594845,
+   "timestamp": "2017-06-08T05:42:35Z",
+   "version": 2,
+   "changeset": 49354968,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 3769013525,
+   "lat": 12.9716526,
+   "lon": 77.5956153,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013526,
+   "lat": 12.9716919,
+   "lon": 77.5956353,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013527,
+   "lat": 12.9717132,
+   "lon": 77.5956977,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013528,
+   "lat": 12.9717147,
+   "lon": 77.5956428,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013529,
+   "lat": 12.9717321,
+   "lon": 77.5956197,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013530,
+   "lat": 12.9717529,
+   "lon": 77.5955691,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013531,
+   "lat": 12.9717508,
+   "lon": 77.5958147,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013532,
+   "lat": 12.9717796,
+   "lon": 77.5958029,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013533,
+   "lat": 12.9718021,
+   "lon": 77.5958395,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013534,
+   "lat": 12.9718527,
+   "lon": 77.5954807,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013535,
+   "lat": 12.97186,
+   "lon": 77.5954642,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013536,
+   "lat": 12.9718868,
+   "lon": 77.5955782,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013537,
+   "lat": 12.9719025,
+   "lon": 77.5955042,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013538,
+   "lat": 12.9719041,
+   "lon": 77.5955533,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013539,
+   "lat": 12.971915,
+   "lon": 77.5955903,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013540,
+   "lat": 12.9719395,
+   "lon": 77.5957477,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013541,
+   "lat": 12.971952,
+   "lon": 77.5957922,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013542,
+   "lat": 12.9719782,
+   "lon": 77.5957345,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013543,
+   "lat": 12.9719868,
+   "lon": 77.5957767,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013544,
+   "lat": 12.9719971,
+   "lon": 77.5955645,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013545,
+   "lat": 12.9720105,
+   "lon": 77.595534,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3769013546,
+   "lat": 12.9720198,
+   "lon": 77.595641,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 3,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 3943327565,
+   "lat": 12.9699602,
+   "lon": 77.5956517,
+   "timestamp": "2016-01-13T10:45:38Z",
+   "version": 1,
+   "changeset": 36546710,
+   "user": "PlaneMad",
+   "uid": 1306
+  },
+  {
+   "type": "node",
+   "id": 4058224813,
+   "lat": 12.9720216,
+   "lon": 77.5942473,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 5,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 4487837990,
+   "lat": 12.9720206,
+   "lon": 77.5955884,
+   "timestamp": "2017-07-10T01:57:20Z",
+   "version": 2,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:postcode": "560001",
+    "addr:street": "Ground Floor Parking, Block,UB City, Concorde, 24, Vittal Mallya Road, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru",
+    "name": "3M India Ltd",
+    "phone": "91-80-22231414",
+    "website": "solutions.3mindia.co.in"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4490273560,
+   "lat": 12.9719699,
+   "lon": 77.5964178,
+   "timestamp": "2019-03-08T04:47:52Z",
+   "version": 2,
+   "changeset": 67909493,
+   "user": "b-jazz-bot",
+   "uid": 9451067,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:postcode": "560001ph",
+    "addr:street": "UB City, Vittal Mallya Road",
+    "name": "Oakwood Premier Prestige",
+    "phone": "+91 80 2234 8888",
+    "website": "https://www.oakwoodasia.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4903181104,
+   "lat": 12.9711484,
+   "lon": 77.5959032,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4903181105,
+   "lat": 12.9701999,
+   "lon": 77.5956428,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4903181106,
+   "lat": 12.9702411,
+   "lon": 77.5954848,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4903181107,
+   "lat": 12.9711997,
+   "lon": 77.5957065,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960826807,
+   "lat": 12.9726381,
+   "lon": 77.5950766,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960826810,
+   "lat": 12.9718127,
+   "lon": 77.5951692,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 3,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 4960826813,
+   "lat": 12.9726032,
+   "lon": 77.5951008,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960826816,
+   "lat": 12.9726628,
+   "lon": 77.5950415,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960826818,
+   "lat": 12.9719217,
+   "lon": 77.5946604,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 6,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 4960830623,
+   "lat": 12.9711777,
+   "lon": 77.5967568,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 6,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 4960830624,
+   "lat": 12.9719562,
+   "lon": 77.5946743,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 4,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 4960830627,
+   "lat": 12.9724431,
+   "lon": 77.5949357,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830628,
+   "lat": 12.9726598,
+   "lon": 77.594927,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830630,
+   "lat": 12.9724669,
+   "lon": 77.5949001,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830633,
+   "lat": 12.9726743,
+   "lon": 77.5949999,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830642,
+   "lat": 12.9726735,
+   "lon": 77.5949679,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830649,
+   "lat": 12.9720491,
+   "lon": 77.5968156,
+   "timestamp": "2017-07-10T01:57:17Z",
+   "version": 1,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742
+  },
+  {
+   "type": "node",
+   "id": 4960830651,
+   "lat": 12.9724422,
+   "lon": 77.5950364,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830654,
+   "lat": 12.9725623,
+   "lon": 77.5951114,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830658,
+   "lat": 12.972499,
+   "lon": 77.5950984,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830660,
+   "lat": 12.9725012,
+   "lon": 77.5948749,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830666,
+   "lat": 12.9725418,
+   "lon": 77.5948633,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830669,
+   "lat": 12.9726452,
+   "lon": 77.5953231,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830670,
+   "lat": 12.9717806,
+   "lon": 77.5953336,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 3,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114
+  },
+  {
+   "type": "node",
+   "id": 4960830673,
+   "lat": 12.9717642,
+   "lon": 77.5953409,
+   "timestamp": "2023-07-31T12:16:27Z",
+   "version": 3,
+   "changeset": 139251703,
+   "user": "deept",
+   "uid": 10516163
+  },
+  {
+   "type": "node",
+   "id": 4960830675,
+   "lat": 12.9721145,
+   "lon": 77.5968156,
+   "timestamp": "2017-07-10T01:57:18Z",
+   "version": 1,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742
+  },
+  {
+   "type": "node",
+   "id": 4960830676,
+   "lat": 12.9720189,
+   "lon": 77.5947018,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 4,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830677,
+   "lat": 12.9721041,
+   "lon": 77.5955184,
+   "timestamp": "2023-07-31T12:16:27Z",
+   "version": 2,
+   "changeset": 139251703,
+   "user": "deept",
+   "uid": 10516163
+  },
+  {
+   "type": "node",
+   "id": 4960830681,
+   "lat": 12.9724653,
+   "lon": 77.5950725,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830682,
+   "lat": 12.9718243,
+   "lon": 77.5953216,
+   "timestamp": "2017-07-10T01:57:18Z",
+   "version": 1,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742
+  },
+  {
+   "type": "node",
+   "id": 4960830683,
+   "lat": 12.9724325,
+   "lon": 77.5949943,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830684,
+   "lat": 12.9727217,
+   "lon": 77.5950944,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830686,
+   "lat": 12.9726334,
+   "lon": 77.5948933,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830688,
+   "lat": 12.9721249,
+   "lon": 77.5954665,
+   "timestamp": "2017-07-10T01:57:18Z",
+   "version": 1,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742
+  },
+  {
+   "type": "node",
+   "id": 4960830689,
+   "lat": 12.9725204,
+   "lon": 77.5951069,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960830690,
+   "lat": 12.9725973,
+   "lon": 77.594871,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960836234,
+   "lat": 12.972316,
+   "lon": 77.5952058,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960836235,
+   "lat": 12.9725319,
+   "lon": 77.59525,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960836236,
+   "lat": 12.9723316,
+   "lon": 77.5951256,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 4960836237,
+   "lat": 12.9725475,
+   "lon": 77.5951698,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 5340711535,
+   "lat": 12.9720277,
+   "lon": 77.5943769,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 5340711536,
+   "lat": 12.971911,
+   "lon": 77.5945269,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 2,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 6573902917,
+   "lat": 12.972519,
+   "lon": 77.5959071,
+   "timestamp": "2019-06-27T06:21:34Z",
+   "version": 1,
+   "changeset": 71659953,
+   "user": "Veena BS",
+   "uid": 8725947
+  },
+  {
+   "type": "node",
+   "id": 6802632656,
+   "lat": 12.9718016,
+   "lon": 77.5963363,
+   "timestamp": "2019-09-17T15:45:41Z",
+   "version": 1,
+   "changeset": 74588933,
+   "user": "!rf@n",
+   "uid": 8782061
+  },
+  {
+   "type": "node",
+   "id": 6802632657,
+   "lat": 12.9719206,
+   "lon": 77.5960332,
+   "timestamp": "2019-09-17T15:45:41Z",
+   "version": 1,
+   "changeset": 74588933,
+   "user": "!rf@n",
+   "uid": 8782061
+  },
+  {
+   "type": "node",
+   "id": 6802632658,
+   "lat": 12.9720434,
+   "lon": 77.5956912,
+   "timestamp": "2019-09-17T15:45:41Z",
+   "version": 1,
+   "changeset": 74588933,
+   "user": "!rf@n",
+   "uid": 8782061
+  },
+  {
+   "type": "node",
+   "id": 6862122441,
+   "lat": 12.971292,
+   "lon": 77.5964623,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 2,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 6898530486,
+   "lat": 12.9718776,
+   "lon": 77.5962988,
+   "timestamp": "2024-08-19T05:40:28Z",
+   "version": 4,
+   "changeset": 155442775,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "addr:city": "Bengaluru",
+    "addr:housenumber": "24, UB City",
+    "addr:postcode": "560001",
+    "addr:street": "Vittal Mallya Road",
+    "air_conditioning": "no",
+    "amenity": "restaurant",
+    "capacity": "15",
+    "check_date": "2024-08-19",
+    "cuisine": "pizza;pasta;burger",
+    "name": "Le Bistro",
+    "website": "https://www.oakwoodasia.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7037768785,
+   "lat": 12.9720385,
+   "lon": 77.5956455,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 2,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;coffee_shop;curry;indian",
+    "name": "Farzi Cafe"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7243302577,
+   "lat": 12.9718291,
+   "lon": 77.5961204,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 6,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "fast_food",
+    "brand": "Subway",
+    "brand:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+    "brand:ur": "\u0633\u0628 \u0648\u06d2",
+    "brand:wikidata": "Q244457",
+    "brand:wikipedia": "en:Subway (restaurant)",
+    "check_date": "2024-08-19",
+    "cuisine": "sandwich",
+    "name": "Subway",
+    "name:kn": "\u0cb8\u0cac\u0ccd\u200c\u0cb5\u0cc7",
+    "name:pa": "\u0a38\u0a2c\u0a35\u0a47\u0a05",
+    "name:ur": "\u0633\u0628 \u0648\u06d2",
+    "takeaway": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7395562828,
+   "lat": 12.9714867,
+   "lon": 77.5950542,
+   "timestamp": "2020-04-12T17:10:26Z",
+   "version": 1,
+   "changeset": 83433855,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "parking",
+    "parking": "surface"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7395562829,
+   "lat": 12.9712004,
+   "lon": 77.5947567,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 7395562830,
+   "lat": 12.9712341,
+   "lon": 77.5945659,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 7395562831,
+   "lat": 12.9715253,
+   "lon": 77.5946202,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 7395562832,
+   "lat": 12.9714916,
+   "lon": 77.5948109,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9540035600,
+   "lat": 12.9709511,
+   "lon": 77.5959077,
+   "timestamp": "2022-02-27T06:03:22Z",
+   "version": 1,
+   "changeset": 117897809,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9540035601,
+   "lat": 12.971045,
+   "lon": 77.5962612,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 2,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "disused:shop": "jewelry",
+    "name": "Ganjam Jewellers",
+    "website": "https://www.ganjam.com"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9586147491,
+   "lat": 12.9716467,
+   "lon": 77.5956141,
+   "timestamp": "2022-03-17T18:55:39Z",
+   "version": 1,
+   "changeset": 118607075,
+   "user": "SubbuBadrinath",
+   "uid": 14639229
+  },
+  {
+   "type": "node",
+   "id": 9633893509,
+   "lat": 12.9704509,
+   "lon": 77.5946489,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9633893510,
+   "lat": 12.9704779,
+   "lon": 77.5944133,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9633893511,
+   "lat": 12.9710342,
+   "lon": 77.5944984,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9633893512,
+   "lat": 12.9710001,
+   "lon": 77.5947329,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9633893513,
+   "lat": 12.9689995,
+   "lon": 77.5946859,
+   "timestamp": "2023-06-15T09:15:21Z",
+   "version": 4,
+   "changeset": 137361558,
+   "user": "rajanik",
+   "uid": 18812448,
+   "tags": {
+    "access": "private",
+    "barrier": "gate",
+    "name": "Gate 5"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9633893514,
+   "lat": 12.9695649,
+   "lon": 77.5945731,
+   "timestamp": "2022-04-03T17:08:16Z",
+   "version": 1,
+   "changeset": 119272237,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "barrier": "gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9633893515,
+   "lat": 12.9707112,
+   "lon": 77.5943443,
+   "timestamp": "2026-02-28T08:34:33Z",
+   "version": 3,
+   "changeset": 179161850,
+   "user": "FIRDOUSSHAIKH",
+   "uid": 23614284,
+   "tags": {
+    "barrier": "gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9796460459,
+   "lat": 12.9721337,
+   "lon": 77.5969198,
+   "timestamp": "2022-12-28T11:41:22Z",
+   "version": 2,
+   "changeset": 130597020,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 9892036257,
+   "lat": 12.9721872,
+   "lon": 77.594908,
+   "timestamp": "2022-07-16T18:16:59Z",
+   "version": 1,
+   "changeset": 123698419,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "name": "Bengaluru Baking Company",
+    "shop": "bakery"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10051816948,
+   "lat": 12.9721424,
+   "lon": 77.5951388,
+   "timestamp": "2022-12-22T17:06:01Z",
+   "version": 2,
+   "changeset": 130385118,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "microbrewery": "yes",
+    "name": "The Merak Brewhouse"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10060517396,
+   "lat": 12.9714495,
+   "lon": 77.5942098,
+   "timestamp": "2022-10-09T12:05:43Z",
+   "version": 2,
+   "changeset": 127244847,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10060517398,
+   "lat": 12.971694,
+   "lon": 77.5951136,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 4,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10060517416,
+   "lat": 12.9712419,
+   "lon": 77.5961913,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 5,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10060517417,
+   "lat": 12.9709579,
+   "lon": 77.5961177,
+   "timestamp": "2023-12-01T05:45:30Z",
+   "version": 3,
+   "changeset": 144648553,
+   "user": "mdtauhid",
+   "uid": 19369851
+  },
+  {
+   "type": "node",
+   "id": 10086861526,
+   "lat": 12.9716564,
+   "lon": 77.5947137,
+   "timestamp": "2022-10-09T12:05:43Z",
+   "version": 1,
+   "changeset": 127244847,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10086861528,
+   "lat": 12.9715583,
+   "lon": 77.5949903,
+   "timestamp": "2024-12-19T10:18:49Z",
+   "version": 2,
+   "changeset": 160386564,
+   "user": "jmty8",
+   "uid": 10260526
+  },
+  {
+   "type": "node",
+   "id": 10086861531,
+   "lat": 12.9718423,
+   "lon": 77.5945022,
+   "timestamp": "2023-07-03T11:19:32Z",
+   "version": 2,
+   "changeset": 138060031,
+   "user": "rajanik",
+   "uid": 18812448,
+   "tags": {
+    "access": "private",
+    "barrier": "lift_gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10086861533,
+   "lat": 12.9718332,
+   "lon": 77.5945245,
+   "timestamp": "2023-07-03T11:19:32Z",
+   "version": 2,
+   "changeset": 138060031,
+   "user": "rajanik",
+   "uid": 18812448,
+   "tags": {
+    "access": "private",
+    "barrier": "lift_gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10086861534,
+   "lat": 12.9718428,
+   "lon": 77.5941255,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10086861535,
+   "lat": 12.9718191,
+   "lon": 77.5941742,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10086861536,
+   "lat": 12.971852,
+   "lon": 77.5943049,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10086861537,
+   "lat": 12.9718056,
+   "lon": 77.594503,
+   "timestamp": "2022-10-09T12:05:43Z",
+   "version": 1,
+   "changeset": 127244847,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10086861538,
+   "lat": 12.971486,
+   "lon": 77.5944313,
+   "timestamp": "2022-10-09T12:05:43Z",
+   "version": 1,
+   "changeset": 127244847,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10086861539,
+   "lat": 12.9719367,
+   "lon": 77.5942311,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10086861540,
+   "lat": 12.9710274,
+   "lon": 77.5944834,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290817606,
+   "lat": 12.9724037,
+   "lon": 77.5965672,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290817608,
+   "lat": 12.9728803,
+   "lon": 77.59632,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290842810,
+   "lat": 12.9718326,
+   "lon": 77.5966064,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290842811,
+   "lat": 12.9717271,
+   "lon": 77.5965581,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290842812,
+   "lat": 12.9717853,
+   "lon": 77.5964242,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290842818,
+   "lat": 12.973154,
+   "lon": 77.5950138,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10290842819,
+   "lat": 12.9729822,
+   "lon": 77.5953773,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10290842820,
+   "lat": 12.9718009,
+   "lon": 77.596092,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 2,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 10290842821,
+   "lat": 12.9722002,
+   "lon": 77.5963457,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 3,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "thai",
+    "name": "One Night in Bangkok"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10290842822,
+   "lat": 12.9716884,
+   "lon": 77.5958252,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 2,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 10290842823,
+   "lat": 12.9718969,
+   "lon": 77.5958812,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10290842824,
+   "lat": 12.9712568,
+   "lon": 77.596756,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 3,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10290842825,
+   "lat": 12.9713473,
+   "lon": 77.5966095,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10291118242,
+   "lat": 12.9718591,
+   "lon": 77.5956698,
+   "timestamp": "2024-05-28T12:30:59Z",
+   "version": 3,
+   "changeset": 151942321,
+   "user": "indigomc",
+   "uid": 136860,
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:country": "IN",
+    "addr:housename": "UB City",
+    "addr:housenumber": "24",
+    "addr:postcode": "560001",
+    "addr:street": "Vittal Mallaya Road",
+    "addr:suburb": "Shanthala Nagar",
+    "addr:unit": "Concorde Tower",
+    "level": "19",
+    "name": "Apple",
+    "name:kn": "\u0c86\u0caa\u0cc6\u0cb2\u0ccd",
+    "office": "company",
+    "operator": "Apple",
+    "short_name": "Apple",
+    "website": "https://www.apple.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q312",
+    "wikipedia": "en:Apple Inc."
+   }
+  },
+  {
+   "type": "node",
+   "id": 10291118243,
+   "lat": 12.9718199,
+   "lon": 77.5956872,
+   "timestamp": "2022-12-28T10:25:37Z",
+   "version": 1,
+   "changeset": 130593279,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "addr:city": "Bengaluru",
+    "addr:country": "IN",
+    "addr:housename": "UB City",
+    "addr:housenumber": "24",
+    "addr:postcode": "560001",
+    "addr:street": "Vittal Mallaya Road",
+    "addr:suburb": "Shanthala Nagar",
+    "addr:unit": "Concorde Tower",
+    "amenity": "coworking_space",
+    "brand": "The Executive Centre",
+    "email": "bangalore@executivecentre.com",
+    "fee": "yes",
+    "level": "14",
+    "name": "The Executive Centre",
+    "office": "coworking",
+    "operator": "The Executive Centre",
+    "phone": "+91 80 6720 5555",
+    "website": "https://www.executivecentre.com/en-in/office-space/bangalore-ub-city-concorde"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10298007194,
+   "lat": 12.9732283,
+   "lon": 77.595443,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455526,
+   "lat": 12.9719005,
+   "lon": 77.5945532,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 3,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455527,
+   "lat": 12.971723,
+   "lon": 77.5950442,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 3,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455529,
+   "lat": 12.9711729,
+   "lon": 77.5964788,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 4,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 10595455530,
+   "lat": 12.9711479,
+   "lon": 77.5967059,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 5,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455531,
+   "lat": 12.9711411,
+   "lon": 77.5968318,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 4,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455532,
+   "lat": 12.9711293,
+   "lon": 77.5972453,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 5,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10595455534,
+   "lat": 12.9711441,
+   "lon": 77.5974773,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 5,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 10865280923,
+   "lat": 12.9716094,
+   "lon": 77.5960305,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 3,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-08-19",
+    "cuisine": "turkish",
+    "name": "\u00d6z by Kebap\u00e7i"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10991656257,
+   "lat": 12.9711307,
+   "lon": 77.5971661,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 4,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11022205622,
+   "lat": 12.9716523,
+   "lon": 77.5950181,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 3,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "access": "private",
+    "barrier": "gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11022205623,
+   "lat": 12.9716117,
+   "lon": 77.5948264,
+   "timestamp": "2023-07-03T11:18:00Z",
+   "version": 1,
+   "changeset": 138059978,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 11022221095,
+   "lat": 12.9716853,
+   "lon": 77.594476,
+   "timestamp": "2023-07-03T11:19:32Z",
+   "version": 1,
+   "changeset": 138060031,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 11297929245,
+   "lat": 12.9711533,
+   "lon": 77.5975875,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 4,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "zebra",
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11342928944,
+   "lat": 12.9722159,
+   "lon": 77.5943176,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342928945,
+   "lat": 12.9721591,
+   "lon": 77.5943137,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975180,
+   "lat": 12.9720898,
+   "lon": 77.5943756,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975181,
+   "lat": 12.9722149,
+   "lon": 77.5943015,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975182,
+   "lat": 12.9723182,
+   "lon": 77.5943142,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975184,
+   "lat": 12.972657,
+   "lon": 77.5945781,
+   "timestamp": "2023-11-12T08:14:22Z",
+   "version": 1,
+   "changeset": 143924001,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975185,
+   "lat": 12.9730915,
+   "lon": 77.5949311,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975186,
+   "lat": 12.9731428,
+   "lon": 77.5949706,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975187,
+   "lat": 12.9733513,
+   "lon": 77.59512,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975211,
+   "lat": 12.9738099,
+   "lon": 77.5956759,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975213,
+   "lat": 12.9735094,
+   "lon": 77.595317,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975214,
+   "lat": 12.9736273,
+   "lon": 77.5954743,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975215,
+   "lat": 12.9737401,
+   "lon": 77.5955937,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975216,
+   "lat": 12.9739105,
+   "lon": 77.5958099,
+   "timestamp": "2026-04-26T14:08:39Z",
+   "version": 3,
+   "changeset": 181847347,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11342975218,
+   "lat": 12.9744197,
+   "lon": 77.5964362,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11386965264,
+   "lat": 12.969947,
+   "lon": 77.5959668,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 2,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11387002790,
+   "lat": 12.9711469,
+   "lon": 77.5961667,
+   "timestamp": "2023-12-01T05:45:30Z",
+   "version": 1,
+   "changeset": 144648553,
+   "user": "mdtauhid",
+   "uid": 19369851,
+   "tags": {
+    "access": "private",
+    "barrier": "gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11387002791,
+   "lat": 12.9709695,
+   "lon": 77.5959944,
+   "timestamp": "2023-12-01T05:45:30Z",
+   "version": 1,
+   "changeset": 144648553,
+   "user": "mdtauhid",
+   "uid": 19369851
+  },
+  {
+   "type": "node",
+   "id": 11387002792,
+   "lat": 12.9707976,
+   "lon": 77.5963855,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 4,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11387002793,
+   "lat": 12.970905,
+   "lon": 77.5960676,
+   "timestamp": "2023-12-01T05:45:30Z",
+   "version": 1,
+   "changeset": 144648553,
+   "user": "mdtauhid",
+   "uid": 19369851
+  },
+  {
+   "type": "node",
+   "id": 11387002794,
+   "lat": 12.9710918,
+   "lon": 77.5964572,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 3,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "access": "private",
+    "barrier": "lift_gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425324455,
+   "lat": 12.9717996,
+   "lon": 77.594072,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425324457,
+   "lat": 12.9714573,
+   "lon": 77.5943129,
+   "timestamp": "2025-04-02T08:43:40Z",
+   "version": 2,
+   "changeset": 164409252,
+   "user": "nagz02",
+   "uid": 22306380
+  },
+  {
+   "type": "node",
+   "id": 11425338069,
+   "lat": 12.9714688,
+   "lon": 77.5943267,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338145,
+   "lat": 12.971962,
+   "lon": 77.594276,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338146,
+   "lat": 12.9719621,
+   "lon": 77.5942263,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338147,
+   "lat": 12.9719145,
+   "lon": 77.5941519,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338149,
+   "lat": 12.9718798,
+   "lon": 77.5941129,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338150,
+   "lat": 12.9718505,
+   "lon": 77.5940866,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338151,
+   "lat": 12.971884,
+   "lon": 77.5945178,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338152,
+   "lat": 12.9718763,
+   "lon": 77.5945424,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338154,
+   "lat": 12.9716747,
+   "lon": 77.5950224,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425338155,
+   "lat": 12.9716014,
+   "lon": 77.5950091,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 2,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338156,
+   "lat": 12.9718238,
+   "lon": 77.5946692,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338157,
+   "lat": 12.9712486,
+   "lon": 77.5959877,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338158,
+   "lat": 12.9711864,
+   "lon": 77.5961783,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425338159,
+   "lat": 12.9711015,
+   "lon": 77.5964596,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 3,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425338160,
+   "lat": 12.9710979,
+   "lon": 77.5964373,
+   "timestamp": "2024-08-18T16:47:25Z",
+   "version": 2,
+   "changeset": 155424650,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11425338161,
+   "lat": 12.9711767,
+   "lon": 77.5961746,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338162,
+   "lat": 12.9717505,
+   "lon": 77.5951395,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 3,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338163,
+   "lat": 12.971681,
+   "lon": 77.5953032,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338164,
+   "lat": 12.9714049,
+   "lon": 77.5959593,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338165,
+   "lat": 12.971265,
+   "lon": 77.5962981,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338166,
+   "lat": 12.971233,
+   "lon": 77.5964321,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338167,
+   "lat": 12.9711976,
+   "lon": 77.5967549,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338168,
+   "lat": 12.9711871,
+   "lon": 77.5968345,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 2,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11425338169,
+   "lat": 12.9711826,
+   "lon": 77.5969075,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 2,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11425338170,
+   "lat": 12.9711813,
+   "lon": 77.5971682,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 2,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11425338171,
+   "lat": 12.9711878,
+   "lon": 77.5972447,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 2,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425338172,
+   "lat": 12.9712369,
+   "lon": 77.5976585,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 2,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "barrier": "kerb"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11425338175,
+   "lat": 12.9712175,
+   "lon": 77.5975819,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 2,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338204,
+   "lat": 12.9712446,
+   "lon": 77.596434,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 1,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338205,
+   "lat": 12.9740476,
+   "lon": 77.5959688,
+   "timestamp": "2026-04-26T14:08:39Z",
+   "version": 3,
+   "changeset": 181847347,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11425338209,
+   "lat": 12.9738387,
+   "lon": 77.5957129,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11506245560,
+   "lat": 12.9710654,
+   "lon": 77.5975915,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 2,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11506245561,
+   "lat": 12.9710658,
+   "lon": 77.5974722,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 1,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11506245562,
+   "lat": 12.9710605,
+   "lon": 77.5972431,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 2,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11506245563,
+   "lat": 12.971083,
+   "lon": 77.5966974,
+   "timestamp": "2024-08-18T16:09:09Z",
+   "version": 2,
+   "changeset": 155422739,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11506245564,
+   "lat": 12.9718712,
+   "lon": 77.5946396,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 2,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 11506245565,
+   "lat": 12.9718482,
+   "lon": 77.5946974,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 3,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 11524819542,
+   "lat": 12.9727242,
+   "lon": 77.595819,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819543,
+   "lat": 12.9727516,
+   "lon": 77.5957565,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819544,
+   "lat": 12.9721527,
+   "lon": 77.5960753,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819545,
+   "lat": 12.9723754,
+   "lon": 77.596176,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819546,
+   "lat": 12.9723883,
+   "lon": 77.5961458,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819547,
+   "lat": 12.9720088,
+   "lon": 77.596422,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819548,
+   "lat": 12.9718469,
+   "lon": 77.5963512,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819549,
+   "lat": 12.9721135,
+   "lon": 77.5957091,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819550,
+   "lat": 12.9724823,
+   "lon": 77.595868,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819551,
+   "lat": 12.9723478,
+   "lon": 77.5961307,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819552,
+   "lat": 12.9723112,
+   "lon": 77.5961072,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819553,
+   "lat": 12.9722793,
+   "lon": 77.5960773,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819554,
+   "lat": 12.9722532,
+   "lon": 77.5960421,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819555,
+   "lat": 12.9722208,
+   "lon": 77.5959576,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819556,
+   "lat": 12.9722166,
+   "lon": 77.595911,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819557,
+   "lat": 12.972221,
+   "lon": 77.5958644,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819558,
+   "lat": 12.972234,
+   "lon": 77.5958195,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819559,
+   "lat": 12.9723879,
+   "lon": 77.5961471,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819560,
+   "lat": 12.9722336,
+   "lon": 77.5960026,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 11524819561,
+   "lat": 12.9722574,
+   "lon": 77.595772,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12102863396,
+   "lat": 12.9721466,
+   "lon": 77.5962264,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 3,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "ice_cream",
+    "check_date": "2024-08-19",
+    "name": "Amadora"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12118752232,
+   "lat": 12.9708178,
+   "lon": 77.5963697,
+   "timestamp": "2025-01-23T13:14:06Z",
+   "version": 2,
+   "changeset": 161674132,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12119590183,
+   "lat": 12.9717772,
+   "lon": 77.5958246,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 2,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-19",
+    "name": "Third Wave Coffee"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12119590715,
+   "lat": 12.9710829,
+   "lon": 77.5960547,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 1,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "name": "PMJ Jewels",
+    "shop": "jewelry"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12119649234,
+   "lat": 12.9704725,
+   "lon": 77.5944507,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12119649235,
+   "lat": 12.9704482,
+   "lon": 77.594447,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12119649236,
+   "lat": 12.970424,
+   "lon": 77.5946137,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12119649237,
+   "lat": 12.9704553,
+   "lon": 77.5946184,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12119649247,
+   "lat": 12.971094,
+   "lon": 77.5965558,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 1,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12119649248,
+   "lat": 12.9711636,
+   "lon": 77.5965637,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 2,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "zebra",
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12119649251,
+   "lat": 12.9712178,
+   "lon": 77.5965706,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 1,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12119649256,
+   "lat": 12.9711818,
+   "lon": 77.5966941,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 2,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 12119649257,
+   "lat": 12.9713314,
+   "lon": 77.5959738,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 1,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12433045740,
+   "lat": 12.971527,
+   "lon": 77.5950615,
+   "timestamp": "2024-12-19T10:18:49Z",
+   "version": 1,
+   "changeset": 160386564,
+   "user": "jmty8",
+   "uid": 10260526
+  },
+  {
+   "type": "node",
+   "id": 12461052120,
+   "lat": 12.9716847,
+   "lon": 77.5962545,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Hamleys",
+    "brand:wikidata": "Q60299",
+    "name": "Hamleys",
+    "shop": "toys"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052121,
+   "lat": 12.9716723,
+   "lon": 77.5962981,
+   "timestamp": "2026-03-06T06:03:29Z",
+   "version": 2,
+   "changeset": 179427115,
+   "user": "Thiru Blue Star",
+   "uid": 23820566,
+   "tags": {
+    "brand": "Samsung",
+    "brand:wikidata": "Q20718",
+    "name": "Samsung",
+    "shop": "electronics"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052122,
+   "lat": 12.9716494,
+   "lon": 77.5963658,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "name": "Imagine",
+    "shop": "electronics"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052123,
+   "lat": 12.9716291,
+   "lon": 77.5964208,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Swarovski",
+    "brand:wikidata": "Q611115",
+    "name": "Swarovski",
+    "shop": "jewelry"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052125,
+   "lat": 12.9714331,
+   "lon": 77.596461,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Tumi",
+    "brand:wikidata": "Q4465402",
+    "name": "Tumi",
+    "shop": "bag"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052126,
+   "lat": 12.9714677,
+   "lon": 77.5963739,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Diesel",
+    "brand:wikidata": "Q158285",
+    "name": "Diesel",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052127,
+   "lat": 12.9714886,
+   "lon": 77.5963162,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Mango",
+    "brand:wikidata": "Q136503",
+    "name": "Mango",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052128,
+   "lat": 12.9715076,
+   "lon": 77.5962518,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Versace",
+    "brand:wikidata": "Q696376",
+    "name": "Versace",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052129,
+   "lat": 12.9715226,
+   "lon": 77.5962035,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Longines",
+    "brand:wikidata": "Q603698",
+    "name": "Longines",
+    "shop": "watches"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052130,
+   "lat": 12.9715416,
+   "lon": 77.5961398,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Omega",
+    "brand:wikidata": "Q659224",
+    "name": "Omega",
+    "shop": "watches"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052131,
+   "lat": 12.971637,
+   "lon": 77.59629,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Rolex",
+    "brand:wikidata": "Q62288",
+    "name": "Rolex",
+    "shop": "watches"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052132,
+   "lat": 12.9716134,
+   "lon": 77.5963504,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Burberry",
+    "brand:wikidata": "Q390107",
+    "clothes": "men;women",
+    "name": "Burberry",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052133,
+   "lat": 12.9715867,
+   "lon": 77.5964195,
+   "timestamp": "2026-03-06T06:03:29Z",
+   "version": 2,
+   "changeset": 179427115,
+   "user": "Thiru Blue Star",
+   "uid": 23820566,
+   "tags": {
+    "brand": "Michael Kors",
+    "brand:wikidata": "Q134612138",
+    "name": "Michael Kors",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052135,
+   "lat": 12.9715148,
+   "lon": 77.5964959,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Salvatore Ferragamo",
+    "brand:wikidata": "Q3946053",
+    "name": "Salvatore Ferragamo",
+    "shop": "shoes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052136,
+   "lat": 12.9714717,
+   "lon": 77.5964684,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Hackett London",
+    "brand:wikidata": "Q1136426",
+    "clothes": "men",
+    "name": "Hackett London",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052137,
+   "lat": 12.9714952,
+   "lon": 77.5963859,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Emporio Armani",
+    "brand:wikidata": "Q3497483",
+    "name": "Emporio Armani",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052138,
+   "lat": 12.9715167,
+   "lon": 77.5963256,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Coach",
+    "brand:wikidata": "Q727697",
+    "name": "Coach",
+    "shop": "bag"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052139,
+   "lat": 12.9715357,
+   "lon": 77.5962552,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Jimmy Choo",
+    "brand:wikidata": "Q5213855",
+    "name": "Jimmy Choo",
+    "shop": "shoes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052140,
+   "lat": 12.9715566,
+   "lon": 77.5962102,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Hugo Boss",
+    "brand:wikidata": "Q491627",
+    "name": "Hugo Boss",
+    "shop": "clothes",
+    "short_name": "Boss"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052141,
+   "lat": 12.9715795,
+   "lon": 77.5961485,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "brand": "Louis Vuitton",
+    "brand:wikidata": "Q191485",
+    "name": "Louis Vuitton",
+    "shop": "clothes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052142,
+   "lat": 12.9717232,
+   "lon": 77.5960989,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "name": "Sublime Galleria",
+    "tourism": "gallery"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052143,
+   "lat": 12.9717337,
+   "lon": 77.5963457,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "Sanchez"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052144,
+   "lat": 12.9721153,
+   "lon": 77.5963095,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "Badmaash"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052145,
+   "lat": 12.9718446,
+   "lon": 77.5959881,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 2,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "tags": {
+    "entrance": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052146,
+   "lat": 12.9719744,
+   "lon": 77.5960441,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12461052147,
+   "lat": 12.971544,
+   "lon": 77.5958596,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 2,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 12461052148,
+   "lat": 12.9716544,
+   "lon": 77.5959061,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 2,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "tags": {
+    "entrance": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12461052150,
+   "lat": 12.9722355,
+   "lon": 77.5962384,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 1,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "highway": "elevator"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12462450428,
+   "lat": 12.97164,
+   "lon": 77.5954007,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12462450429,
+   "lat": 12.9716273,
+   "lon": 77.5953959,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "barrier": "kerb",
+    "kerb": "raised"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12462450430,
+   "lat": 12.971528,
+   "lon": 77.5953548,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12462450431,
+   "lat": 12.9715371,
+   "lon": 77.5953584,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "barrier": "kerb",
+    "kerb": "raised"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12462450432,
+   "lat": 12.9715852,
+   "lon": 77.5953784,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12462450433,
+   "lat": 12.9712111,
+   "lon": 77.596287,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12462450434,
+   "lat": 12.9712211,
+   "lon": 77.5976194,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12526376839,
+   "lat": 12.9712397,
+   "lon": 77.5950075,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12526376840,
+   "lat": 12.9711116,
+   "lon": 77.5953213,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12526376841,
+   "lat": 12.9712515,
+   "lon": 77.5953814,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12526376842,
+   "lat": 12.9713795,
+   "lon": 77.5950676,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12558269328,
+   "lat": 12.9718895,
+   "lon": 77.5947383,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 2,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 12558269329,
+   "lat": 12.9717766,
+   "lon": 77.5950067,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269330,
+   "lat": 12.9716627,
+   "lon": 77.5952956,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269331,
+   "lat": 12.9715817,
+   "lon": 77.5954727,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269332,
+   "lat": 12.9714627,
+   "lon": 77.5957712,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269333,
+   "lat": 12.9713299,
+   "lon": 77.5960626,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269334,
+   "lat": 12.971242,
+   "lon": 77.5963109,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269335,
+   "lat": 12.971219,
+   "lon": 77.5964053,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269336,
+   "lat": 12.9711903,
+   "lon": 77.5966058,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269337,
+   "lat": 12.9711845,
+   "lon": 77.5966524,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269338,
+   "lat": 12.9711655,
+   "lon": 77.5969438,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269339,
+   "lat": 12.9711638,
+   "lon": 77.5972039,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269344,
+   "lat": 12.9717279,
+   "lon": 77.5951284,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269345,
+   "lat": 12.9716185,
+   "lon": 77.5953922,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448,
+   "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558269346,
+   "lat": 12.9711957,
+   "lon": 77.5965678,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448,
+   "tags": {
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558269347,
+   "lat": 12.971168,
+   "lon": 77.5969057,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269348,
+   "lat": 12.9711641,
+   "lon": 77.5971675,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269349,
+   "lat": 12.9711672,
+   "lon": 77.5972449,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269350,
+   "lat": 12.9711727,
+   "lon": 77.5968337,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12558269351,
+   "lat": 12.9711448,
+   "lon": 77.5967599,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 1,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448
+  },
+  {
+   "type": "node",
+   "id": 12722551247,
+   "lat": 12.9714312,
+   "lon": 77.5941603,
+   "timestamp": "2025-04-02T08:43:40Z",
+   "version": 1,
+   "changeset": 164409252,
+   "user": "nagz02",
+   "uid": 22306380
+  },
+  {
+   "type": "node",
+   "id": 12722551251,
+   "lat": 12.9713085,
+   "lon": 77.594349,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12722551252,
+   "lat": 12.9713206,
+   "lon": 77.5944676,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12845378979,
+   "lat": 12.9695588,
+   "lon": 77.5955478,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 12872744048,
+   "lat": 12.9717508,
+   "lon": 77.5958147,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12872744049,
+   "lat": 12.9717508,
+   "lon": 77.5958147,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12872744050,
+   "lat": 12.9718021,
+   "lon": 77.5958395,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12872744051,
+   "lat": 12.9718021,
+   "lon": 77.5958395,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12872744052,
+   "lat": 12.9718969,
+   "lon": 77.5958812,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12872744053,
+   "lat": 12.9718778,
+   "lon": 77.5959091,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 1,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086
+  },
+  {
+   "type": "node",
+   "id": 12927909825,
+   "lat": 12.9717073,
+   "lon": 77.5961793,
+   "timestamp": "2025-06-20T10:27:08Z",
+   "version": 1,
+   "changeset": 167863011,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "name": "Laduree",
+    "shop": "pastry"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13013588749,
+   "lat": 12.9716906,
+   "lon": 77.5960708,
+   "timestamp": "2025-07-20T13:25:43Z",
+   "version": 1,
+   "changeset": 169196405,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "peruvian",
+    "name": "Riko"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13065062913,
+   "lat": 12.9712805,
+   "lon": 77.5962022,
+   "timestamp": "2025-08-12T10:24:33Z",
+   "version": 1,
+   "changeset": 170333695,
+   "user": "alivapanda",
+   "uid": 19505674
+  },
+  {
+   "type": "node",
+   "id": 13168786891,
+   "lat": 12.9721676,
+   "lon": 77.5964811,
+   "timestamp": "2025-09-25T04:47:48Z",
+   "version": 1,
+   "changeset": 172420633,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "cantonese",
+    "name": "Royal China"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13288585567,
+   "lat": 12.9722581,
+   "lon": 77.5951553,
+   "timestamp": "2025-11-08T06:57:14Z",
+   "version": 1,
+   "changeset": 174361446,
+   "user": "Vonter",
+   "uid": 3926189,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "Madras Kitchen and The Bar"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13459508980,
+   "lat": 12.9731271,
+   "lon": 77.5949927,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459508981,
+   "lat": 12.973076,
+   "lon": 77.5949529,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459508982,
+   "lat": 12.972153,
+   "lon": 77.5943338,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459508983,
+   "lat": 12.9721494,
+   "lon": 77.5943186,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459537702,
+   "lat": 12.9728484,
+   "lon": 77.5951836,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459537703,
+   "lat": 12.9726972,
+   "lon": 77.5946227,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459537704,
+   "lat": 12.9728556,
+   "lon": 77.5947508,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459537727,
+   "lat": 12.9745875,
+   "lon": 77.5966105,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "tags": {
+    "barrier": "kerb"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13459537728,
+   "lat": 12.9745324,
+   "lon": 77.5965623,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13459537779,
+   "lat": 12.9732111,
+   "lon": 77.5955491,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 1,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805
+  },
+  {
+   "type": "node",
+   "id": 13821898883,
+   "lat": 12.9709112,
+   "lon": 77.5956274,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821898884,
+   "lat": 12.9709012,
+   "lon": 77.595666,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821898885,
+   "lat": 12.9710102,
+   "lon": 77.5944089,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904872,
+   "lat": 12.9722064,
+   "lon": 77.5944459,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904873,
+   "lat": 12.9722185,
+   "lon": 77.5944306,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904874,
+   "lat": 12.9721963,
+   "lon": 77.5944628,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904875,
+   "lat": 12.9720787,
+   "lon": 77.5947216,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904876,
+   "lat": 12.9725231,
+   "lon": 77.5947982,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904877,
+   "lat": 12.9725701,
+   "lon": 77.5946183,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904878,
+   "lat": 12.9723736,
+   "lon": 77.5944135,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904879,
+   "lat": 12.9723532,
+   "lon": 77.5943986,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904880,
+   "lat": 12.9723297,
+   "lon": 77.5943893,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904881,
+   "lat": 12.9722834,
+   "lon": 77.594389,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904882,
+   "lat": 12.972263,
+   "lon": 77.5943962,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904883,
+   "lat": 12.9723897,
+   "lon": 77.5944333,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904884,
+   "lat": 12.9723048,
+   "lon": 77.5943863,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904885,
+   "lat": 12.9722447,
+   "lon": 77.5944078,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904895,
+   "lat": 12.9720086,
+   "lon": 77.5947252,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904896,
+   "lat": 12.9724773,
+   "lon": 77.5948021,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904897,
+   "lat": 12.972872,
+   "lon": 77.5948624,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904898,
+   "lat": 12.9728511,
+   "lon": 77.5949818,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904899,
+   "lat": 12.9727387,
+   "lon": 77.5951092,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904900,
+   "lat": 12.9727034,
+   "lon": 77.5953211,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904901,
+   "lat": 12.9725975,
+   "lon": 77.5953962,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904902,
+   "lat": 12.972591,
+   "lon": 77.5954257,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904903,
+   "lat": 12.9721349,
+   "lon": 77.5953291,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904904,
+   "lat": 12.972198,
+   "lon": 77.5952382,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904905,
+   "lat": 12.9721868,
+   "lon": 77.5953002,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904906,
+   "lat": 12.9726921,
+   "lon": 77.5951482,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904907,
+   "lat": 12.9727191,
+   "lon": 77.5951128,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904908,
+   "lat": 12.9728366,
+   "lon": 77.5949396,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904909,
+   "lat": 12.9728311,
+   "lon": 77.5949111,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904910,
+   "lat": 12.9728302,
+   "lon": 77.5949536,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904911,
+   "lat": 12.9728367,
+   "lon": 77.5949241,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904912,
+   "lat": 12.9727981,
+   "lon": 77.5948849,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904913,
+   "lat": 12.9727501,
+   "lon": 77.5948673,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904914,
+   "lat": 12.972821,
+   "lon": 77.5949013,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904915,
+   "lat": 12.9727727,
+   "lon": 77.5948732,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904916,
+   "lat": 12.9727269,
+   "lon": 77.5948651,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904917,
+   "lat": 12.9726746,
+   "lon": 77.5948706,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904918,
+   "lat": 12.9726245,
+   "lon": 77.5948605,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904919,
+   "lat": 12.9722376,
+   "lon": 77.5948047,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904920,
+   "lat": 12.9722355,
+   "lon": 77.5948155,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904921,
+   "lat": 12.9722076,
+   "lon": 77.5961695,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904922,
+   "lat": 12.972115,
+   "lon": 77.5963788,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904923,
+   "lat": 12.9721652,
+   "lon": 77.5964021,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904924,
+   "lat": 12.9722577,
+   "lon": 77.5961928,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904925,
+   "lat": 12.9714353,
+   "lon": 77.5954552,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904926,
+   "lat": 12.9712854,
+   "lon": 77.5953908,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904927,
+   "lat": 12.9714047,
+   "lon": 77.5950984,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 13821904928,
+   "lat": 12.9715546,
+   "lon": 77.5951628,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189
+  },
+  {
+   "type": "node",
+   "id": 14218998640,
+   "lat": 12.9719244,
+   "lon": 77.5960225,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "tags": {
+    "highway": "crossing"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14218998643,
+   "lat": 12.9717951,
+   "lon": 77.5967672,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 14218998645,
+   "lat": 12.9712654,
+   "lon": 77.5966455,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 14218998646,
+   "lat": 12.971186,
+   "lon": 77.5966407,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 14218998647,
+   "lat": 12.9712041,
+   "lon": 77.5966957,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 14218998648,
+   "lat": 12.97121,
+   "lon": 77.5966422,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701
+  },
+  {
+   "type": "node",
+   "id": 14218998650,
+   "lat": 12.9716326,
+   "lon": 77.5967843,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "tags": {
+    "access": "permissive",
+    "barrier": "lift_gate"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14231067080,
+   "lat": 12.971792,
+   "lon": 77.5953383,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 1,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114
+  },
+  {
+   "type": "way",
+   "id": 23029710,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 32,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448,
+   "nodes": [
+    248459840,
+    11297929245,
+    10595455534,
+    10595455532,
+    10991656257,
+    1232939392,
+    10595455531,
+    12558269351,
+    10595455530,
+    12119649248,
+    10595455529,
+    248459846,
+    12462450433,
+    10060517416,
+    12119649257,
+    12462450432,
+    1557709050,
+    10060517398,
+    10595455527,
+    11506245565
+   ],
+   "tags": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lanes:backward": "1",
+    "lanes:forward": "1",
+    "name": "Vittal Mallya Road",
+    "name:etymology:wikidata": "Q7937268",
+    "name:kn": "\u0cb5\u0cbf\u0ca0\u0ccd\u0ca0\u0cb2 \u0cae\u0cb2\u0ccd\u0caf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+    "old_name": "Grant Road",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "surface": "concrete"
+   }
+  },
+  {
+   "type": "way",
+   "id": 38773287,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 15,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    459815979,
+    459815980,
+    12845378979,
+    3943327565,
+    9540035600,
+    459815981,
+    11022205622,
+    459815982,
+    10086861540,
+    13821898885,
+    459815983,
+    9633893515,
+    9633893514,
+    9633893513,
+    459815979
+   ],
+   "tags": {
+    "alt_name": "SJIHS",
+    "amenity": "school",
+    "check_date": "2024-08-18",
+    "name": "St. Joseph's Indian High School",
+    "start_date": "1904",
+    "wikidata": "Q7589194",
+    "wikipedia": "en:St. Joseph's Indian High School"
+   }
+  },
+  {
+   "type": "way",
+   "id": 38773290,
+   "timestamp": "2026-03-06T09:44:27Z",
+   "version": 18,
+   "changeset": 179435739,
+   "user": "wheelmap_visitor",
+   "uid": 290680,
+   "nodes": [
+    459815988,
+    663573132,
+    11425338204,
+    3384460219,
+    9796460459,
+    459815990,
+    10290817606,
+    459815991,
+    10290817608,
+    459815992,
+    2189718252,
+    13459537779,
+    10298007194,
+    10290842819,
+    10290842818,
+    13459508980,
+    13459508981,
+    1232939382,
+    13459537702,
+    3384460248,
+    1232939416,
+    1232939458,
+    459815988
+   ],
+   "tags": {
+    "addr:city": "Bangalore",
+    "addr:housenumber": "24",
+    "addr:postcode": "560001",
+    "addr:street": "Vittal Mallya Road",
+    "landuse": "commercial",
+    "name": "UB City",
+    "shop": "mall",
+    "wheelchair": "limited",
+    "wikidata": "Q3595524",
+    "wikimedia_commons": "Category:UB City",
+    "wikipedia": "en:UB City"
+   }
+  },
+  {
+   "type": "way",
+   "id": 52245042,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 9,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11425324457,
+    12722551247,
+    665065742,
+    2189683195,
+    10086861534,
+    10086861539,
+    2189683198,
+    10086861531,
+    10086861533,
+    459815982,
+    10086861540,
+    13821898885,
+    12722551252,
+    12722551251,
+    11425324457
+   ],
+   "tags": {
+    "landuse": "commercial"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107240640,
+   "timestamp": "2026-01-16T04:17:16Z",
+   "version": 9,
+   "changeset": 177282171,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    1232939382,
+    1232939387,
+    11342928944,
+    2189683201,
+    13459508982,
+    1232939467,
+    459815988,
+    1232939458,
+    1232939416,
+    3384460248,
+    13459537702,
+    1232939382
+   ],
+   "tags": {
+    "air_conditioning": "yes",
+    "brand": "JW Marriott",
+    "brand:wikidata": "Q1067636",
+    "landuse": "commercial",
+    "name": "JW Marriott",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107240643,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 14,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    1232939482,
+    1232939464,
+    13821904920,
+    13821904919,
+    3474511230,
+    3766731036,
+    3474511232,
+    3474511234,
+    13821904918,
+    3474511236,
+    3766731037,
+    13821904917,
+    1232939483,
+    13821904916,
+    13821904913,
+    13821904915,
+    13821904912,
+    13821904914,
+    13821904909,
+    13821904911,
+    13821904908,
+    13821904910,
+    4960830684,
+    13821904907,
+    13821904906,
+    3765997160,
+    4960830669,
+    3765997159,
+    13821904905,
+    13821904904,
+    3765997157,
+    3765997158,
+    1232939482
+   ],
+   "tags": {
+    "air_conditioning": "yes",
+    "building": "hotel",
+    "building:colour": "#ceb78b",
+    "building:levels": "19",
+    "building:part": "yes",
+    "height": "50"
+   }
+  },
+  {
+   "type": "way",
+   "id": 142321527,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 11,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114,
+   "nodes": [
+    1557709035,
+    14231067080,
+    4960830673
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 173470560,
+   "timestamp": "2024-08-19T04:34:45Z",
+   "version": 7,
+   "changeset": 155441558,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11425338159,
+    11387002794,
+    11387002792,
+    459815985,
+    1842803345,
+    11386965264
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 208697538,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 18,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    13459537727,
+    13459537728,
+    11342975218,
+    11425338205,
+    11342975216,
+    11425338209,
+    11342975211,
+    11342975215,
+    11342975214,
+    11342975213,
+    11342975187,
+    11342975186,
+    11342975185,
+    13459537704,
+    13459537703,
+    11342975184,
+    11342975182,
+    11342975181,
+    11342928945,
+    13459508983,
+    11342975180,
+    4960830624,
+    11425338162,
+    11425338163,
+    12462450428,
+    11425338164,
+    11425338165,
+    11425338166,
+    12119649251,
+    14218998648,
+    14218998647,
+    11425338167,
+    11425338168,
+    11425338169,
+    11425338170,
+    11425338171,
+    11425338175,
+    12462450434,
+    11425338172
+   ],
+   "tags": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "lit": "yes",
+    "smoothness": "good",
+    "surface": "paving_stones"
+   }
+  },
+  {
+   "type": "way",
+   "id": 208697543,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 14,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11506245560,
+    11506245561,
+    11506245562,
+    11506245563,
+    12119649247,
+    11425338159,
+    11425338158,
+    11425338157,
+    12462450430,
+    11425338154,
+    11425338156,
+    11425338152,
+    11425338151,
+    11425338145,
+    11425338146,
+    11425338147,
+    11425338149,
+    11425338150,
+    11425324455
+   ],
+   "tags": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "smoothness": "good"
+   }
+  },
+  {
+   "type": "way",
+   "id": 331183998,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 5,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    3382418354,
+    3382418353,
+    3382419034,
+    3382419036,
+    3382418354
+   ],
+   "tags": {
+    "building": "commercial",
+    "building:levels": "3",
+    "name": "Bagmane"
+   }
+  },
+  {
+   "type": "way",
+   "id": 331184021,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    3382418356,
+    3382418355,
+    3382419039,
+    3382419044,
+    3382418356
+   ],
+   "tags": {
+    "building": "retail"
+   }
+  },
+  {
+   "type": "way",
+   "id": 331384308,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 13,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    6573902917,
+    3681719432,
+    1232939435,
+    4960830675,
+    4960830649,
+    14218998643,
+    14218998650,
+    10290842824,
+    11425338167,
+    4960830623
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "maxspeed": "10",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 364528078,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 4,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10290842810,
+    3685624501,
+    3685624503,
+    3685624508,
+    3685624516,
+    3685624522,
+    3685624521,
+    3685624520,
+    3685624519,
+    3685624518,
+    3685624515,
+    3685624517,
+    3685624514,
+    3685624513,
+    3685624512,
+    3685624511,
+    3685624510,
+    3685624507,
+    3685624506,
+    3685624505,
+    3685624504,
+    10290842810
+   ],
+   "tags": {
+    "building": "commercial",
+    "building:levels": "11",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Comet"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373371168,
+   "timestamp": "2025-01-23T13:14:06Z",
+   "version": 3,
+   "changeset": 161674132,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    3768523290,
+    3768523289,
+    3768523283,
+    3768523284,
+    3768523285,
+    3768523282,
+    3768523287,
+    3768523290
+   ],
+   "tags": {
+    "landuse": "recreation_ground"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431281,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 2,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    3769013526,
+    3769013529,
+    3769013538,
+    3769013539,
+    3769013546,
+    3769013542,
+    3769013541,
+    3685624502,
+    10290842823,
+    3769013533,
+    3769013531,
+    3769013527,
+    3769013526
+   ],
+   "tags": {
+    "building:part": "yes",
+    "height": "70"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431282,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 4,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "nodes": [
+    3769013541,
+    3685624502,
+    12872744052,
+    12872744050,
+    3685624496,
+    12872744048,
+    3685624490,
+    3685624486,
+    3769013525,
+    3769013530,
+    3685624498,
+    3769013534,
+    3769013535,
+    3769013545,
+    3769013544,
+    3685624509,
+    3769013546,
+    3769013542,
+    3769013543,
+    3769013541
+   ],
+   "tags": {
+    "building": "commercial",
+    "building:levels": "20",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Concorde",
+    "wikimedia_commons": "File:Concorde Tower Bangalore.jpg"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431283,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 2,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "nodes": [
+    12872744051,
+    3685624496,
+    3769013531,
+    12872744051
+   ],
+   "tags": {
+    "building:part": "yes",
+    "height": "45"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431284,
+   "timestamp": "2015-10-02T15:30:38Z",
+   "version": 1,
+   "changeset": 34391635,
+   "user": "Chetan_Gowda",
+   "uid": 2644101,
+   "nodes": [
+    3769013542,
+    3769013543,
+    3769013541,
+    3769013542
+   ],
+   "tags": {
+    "building:part": "yes",
+    "height": "45"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431285,
+   "timestamp": "2015-10-02T15:30:38Z",
+   "version": 1,
+   "changeset": 34391635,
+   "user": "Chetan_Gowda",
+   "uid": 2644101,
+   "nodes": [
+    3769013536,
+    3769013540,
+    3769013532,
+    3769013528,
+    3769013536
+   ],
+   "tags": {
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "80",
+    "min_height": "70",
+    "roof:shape": "pyramidal"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431286,
+   "timestamp": "2015-10-02T15:30:38Z",
+   "version": 1,
+   "changeset": 34391635,
+   "user": "Chetan_Gowda",
+   "uid": 2644101,
+   "nodes": [
+    3685624498,
+    3769013534,
+    3769013537,
+    3769013530,
+    3685624498
+   ],
+   "tags": {
+    "building:part": "yes",
+    "height": "45"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431287,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 3,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "nodes": [
+    3685624490,
+    3685624486,
+    3769013527,
+    12872744049,
+    3685624490
+   ],
+   "tags": {
+    "building:part": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 373431288,
+   "timestamp": "2015-10-02T15:30:38Z",
+   "version": 1,
+   "changeset": 34391635,
+   "user": "Chetan_Gowda",
+   "uid": 2644101,
+   "nodes": [
+    3769013530,
+    3769013525,
+    3685624486,
+    3769013527,
+    3769013526,
+    3769013529,
+    3769013530
+   ],
+   "tags": {
+    "building:part": "yes",
+    "height": "54"
+   }
+  },
+  {
+   "type": "way",
+   "id": 498986775,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 3,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    4903181107,
+    4903181104,
+    4903181105,
+    4903181106,
+    13821898884,
+    13821898883,
+    4903181107
+   ],
+   "tags": {
+    "building": "school"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310559,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 7,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114,
+   "nodes": [
+    4960830688,
+    4960830682,
+    4960830670,
+    4960830673
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310566,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 7,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114,
+   "nodes": [
+    4960830673,
+    4960830677
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310568,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 8,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10060517398,
+    12558269344,
+    11425338162,
+    4960826810,
+    13821904895,
+    4960830676,
+    4960830624,
+    4960826818
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310569,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 7,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    4960830677,
+    11524819542,
+    11524819543,
+    4960830688
+   ],
+   "tags": {
+    "access": "permissive",
+    "bridge": "viaduct",
+    "highway": "service",
+    "layer": "1",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310570,
+   "timestamp": "2017-07-10T01:57:19Z",
+   "version": 1,
+   "changeset": 50164424,
+   "user": "docaneesh",
+   "uid": 492742,
+   "nodes": [
+    4960830642,
+    4960830628,
+    4960830686,
+    4960830690,
+    4960830666,
+    4960830660,
+    4960830630,
+    4960830627,
+    4960830683,
+    4960830651,
+    4960830681,
+    4960830658,
+    4960830689,
+    4960830654,
+    4960826813,
+    4960826807,
+    4960826816,
+    4960830633,
+    4960830642
+   ],
+   "tags": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "way",
+   "id": 506310954,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    4960836237,
+    4960836236,
+    4960836234,
+    4960836235,
+    4960836237
+   ],
+   "tags": {
+    "access": "customers",
+    "covered": "no",
+    "leisure": "swimming_pool",
+    "sport": "swimming"
+   }
+  },
+  {
+   "type": "way",
+   "id": 553253479,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 5,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    5340711535,
+    4960826818
+   ],
+   "tags": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "tertiary",
+    "name": "Vittal Mallya Road",
+    "name:etymology:wikidata": "Q7937268",
+    "name:kn": "\u0cb2\u0cbe\u0cb5\u0cc6\u0cb2\u0ccd \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+    "old_name": "Grant Road",
+    "oneway": "yes",
+    "surface": "concrete"
+   }
+  },
+  {
+   "type": "way",
+   "id": 725426825,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 7,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    4960830677,
+    6802632658,
+    14218998640,
+    6802632657,
+    6802632656
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "motor_vehicle": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 732820184,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 8,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    4960830673,
+    9586147491,
+    12461052147,
+    6862122441,
+    14218998645
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 791095271,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    7395562832,
+    7395562831,
+    7395562830,
+    7395562829,
+    7395562832
+   ],
+   "tags": {
+    "access": "private",
+    "leisure": "pitch",
+    "sport": "basketball"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1035562485,
+   "timestamp": "2024-08-18T16:47:25Z",
+   "version": 7,
+   "changeset": 155424650,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11425338160,
+    12118752232,
+    11387002793,
+    9540035600,
+    459815981,
+    11425338161,
+    11425338160
+   ],
+   "tags": {
+    "landuse": "commercial"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1047676496,
+   "timestamp": "2024-08-19T05:16:10Z",
+   "version": 2,
+   "changeset": 155442207,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    9633893512,
+    9633893511,
+    9633893510,
+    12119649234,
+    12119649235,
+    12119649236,
+    12119649237,
+    9633893509,
+    9633893512
+   ],
+   "tags": {
+    "building": "school"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1098770445,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 6,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10060517416,
+    11425338158,
+    11425338161,
+    11387002790,
+    10060517417,
+    11387002791
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1102326208,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 5,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    10086861526,
+    11022205623,
+    10086861528,
+    11425338155,
+    11022205622,
+    11425338154,
+    10595455527
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1102326210,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 4,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    5340711536,
+    11425338151,
+    10086861531,
+    10086861537,
+    10086861533,
+    11425338152,
+    10595455526
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1102326211,
+   "timestamp": "2023-07-03T11:19:32Z",
+   "version": 2,
+   "changeset": 138060031,
+   "user": "rajanik",
+   "uid": 18812448,
+   "nodes": [
+    10086861537,
+    10086861536,
+    10086861535
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "footway"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1102326212,
+   "timestamp": "2023-12-17T10:11:58Z",
+   "version": 3,
+   "changeset": 145208901,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    10060517396,
+    11425338069,
+    10086861538,
+    11022221095,
+    10086861537
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1125334909,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10290842810,
+    10290842811,
+    10290842812,
+    3685624501,
+    10290842810
+   ],
+   "tags": {
+    "building": "yes",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1125334910,
+   "timestamp": "2022-12-28T07:07:55Z",
+   "version": 1,
+   "changeset": 130585428,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10290842812,
+    10290842811,
+    3685624489,
+    3685624485,
+    10290842825,
+    3685624483,
+    3685624480,
+    3685624484,
+    3685624487,
+    10290842820,
+    3685624493,
+    10290842812
+   ],
+   "tags": {
+    "building": "commercial",
+    "building:levels": "18",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Canberra"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1125334913,
+   "timestamp": "2025-05-29T08:51:50Z",
+   "version": 3,
+   "changeset": 166909092,
+   "user": "Amolbagal",
+   "uid": 18397086,
+   "nodes": [
+    10290842820,
+    3685624487,
+    12461052148,
+    10290842822,
+    12872744053,
+    12461052145,
+    10290842820
+   ],
+   "tags": {
+    "building": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1193543693,
+   "timestamp": "2026-09-29T10:18:24Z",
+   "version": 5,
+   "changeset": 189719523,
+   "user": "kunalchhapre",
+   "uid": 19795114,
+   "nodes": [
+    12558269330,
+    11425338163,
+    4960830673
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1238638850,
+   "timestamp": "2024-01-10T16:01:47Z",
+   "version": 1,
+   "changeset": 146109761,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    10595455529,
+    11425338159
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1238638852,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 6,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    4960826818,
+    12558269328,
+    12558269329,
+    12558269344,
+    12558269330,
+    12558269345,
+    12558269331,
+    12558269332,
+    12558269333,
+    13065062913,
+    12558269334,
+    12558269335,
+    12558269346,
+    12558269336,
+    14218998646,
+    12558269337,
+    12119649256,
+    4960830623,
+    12558269350,
+    12558269347,
+    12558269338,
+    12558269348,
+    12558269339,
+    12558269349
+   ],
+   "tags": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "tertiary",
+    "name": "Vittal Mallya Road",
+    "name:etymology:wikidata": "Q7937268",
+    "name:kn": "\u0cb5\u0cbf\u0ca0\u0ccd\u0ca0\u0cb2\u0ccd \u0cae\u0cb2\u0ccd\u0caf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+    "old_name": "Grant Road",
+    "oneway": "yes",
+    "smoothness": "excellent",
+    "surface": "concrete"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1238638853,
+   "timestamp": "2026-02-23T19:30:47Z",
+   "version": 3,
+   "changeset": 178958733,
+   "user": "indigomc",
+   "uid": 136860,
+   "nodes": [
+    11506245565,
+    11506245564,
+    10595455526,
+    5340711536,
+    4058224813
+   ],
+   "tags": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "tertiary",
+    "name": "Vittal Mallya Road",
+    "name:etymology:wikidata": "Q7937268",
+    "name:kn": "\u0cb5\u0cbf\u0ca0\u0ccd\u0ca0\u0cb2 \u0cae\u0cb2\u0ccd\u0caf \u0cb0\u0cb8\u0ccd\u0ca4\u0cc6",
+    "old_name": "Grant Road",
+    "oneway": "yes",
+    "surface": "concrete"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1240447779,
+   "timestamp": "2024-12-29T16:07:59Z",
+   "version": 2,
+   "changeset": 160756743,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11524819561,
+    11524819549,
+    12461052146,
+    11524819548,
+    11524819547,
+    11524819544,
+    11524819545,
+    11524819559,
+    11524819551,
+    11524819552,
+    11524819553,
+    11524819554,
+    11524819560,
+    11524819555,
+    11524819556,
+    11524819557,
+    11524819558,
+    11524819561
+   ],
+   "tags": {
+    "area": "yes",
+    "area:highway": "footway",
+    "highway": "footway"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1240447780,
+   "timestamp": "2024-01-17T13:49:27Z",
+   "version": 1,
+   "changeset": 146365598,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    11524819561,
+    11524819558,
+    11524819557,
+    11524819556,
+    11524819555,
+    11524819560,
+    11524819554,
+    11524819553,
+    11524819552,
+    11524819551,
+    11524819559,
+    11524819546,
+    11524819550,
+    11524819561
+   ],
+   "tags": {
+    "amenity": "theatre",
+    "name": "UB City Amphitheatre",
+    "theatre:type": "amphi"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1343714131,
+   "timestamp": "2024-12-19T10:18:49Z",
+   "version": 1,
+   "changeset": 160386564,
+   "user": "jmty8",
+   "uid": 10260526,
+   "nodes": [
+    10086861528,
+    12433045740
+   ],
+   "tags": {
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1347106633,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 2,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    12461052147,
+    12461052148,
+    12461052145,
+    14218998640,
+    12461052146
+   ],
+   "tags": {
+    "highway": "footway"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1347245638,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    12462450428,
+    12462450429
+   ],
+   "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1347245639,
+   "timestamp": "2024-12-30T05:29:05Z",
+   "version": 1,
+   "changeset": 160776599,
+   "user": "uknown-gryphus",
+   "uid": 2425805,
+   "nodes": [
+    12462450430,
+    12462450431
+   ],
+   "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1347245640,
+   "timestamp": "2025-02-05T04:42:45Z",
+   "version": 2,
+   "changeset": 162150073,
+   "user": "rajanik",
+   "uid": 18812448,
+   "nodes": [
+    12462450431,
+    12462450432,
+    12558269345,
+    12462450429
+   ],
+   "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "concrete"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1353666174,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 2,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    12526376842,
+    12526376841,
+    12526376840,
+    12526376839,
+    12526376842
+   ],
+   "tags": {
+    "access": "private",
+    "leisure": "pitch",
+    "sport": "basketball"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1421715811,
+   "timestamp": "2025-08-12T10:24:33Z",
+   "version": 1,
+   "changeset": 170333695,
+   "user": "alivapanda",
+   "uid": 19505674,
+   "nodes": [
+    10060517416,
+    13065062913
+   ],
+   "tags": {
+    "highway": "service"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1512666769,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    13821904885,
+    13821904882,
+    13821904881,
+    13821904884,
+    13821904880,
+    13821904879,
+    13821904878,
+    13821904883,
+    13821904877,
+    13821904876,
+    13821904875,
+    13821904874,
+    13821904872,
+    13821904873,
+    13821904885
+   ],
+   "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1512666771,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    4960826810,
+    13821904903,
+    13821904902,
+    13821904901,
+    13821904900,
+    13821904899,
+    13821904898,
+    13821904897,
+    13821904896,
+    13821904895
+   ],
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1512666772,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    13821904924,
+    13821904923,
+    13821904922,
+    13821904921,
+    13821904924
+   ],
+   "tags": {
+    "access": "customers",
+    "leisure": "swimming_pool"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1512666773,
+   "timestamp": "2026-05-12T17:11:01Z",
+   "version": 1,
+   "changeset": 182566030,
+   "user": "Vonter",
+   "uid": 3926189,
+   "nodes": [
+    13821904928,
+    13821904925,
+    13821904926,
+    13821904927,
+    13821904928
+   ],
+   "tags": {
+    "access": "private",
+    "leisure": "pitch",
+    "sport": "basketball"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1562467428,
+   "timestamp": "2026-09-26T07:53:34Z",
+   "version": 1,
+   "changeset": 189574945,
+   "user": "likhithaola",
+   "uid": 22355701,
+   "nodes": [
+    12558269330,
+    1557709050
+   ],
+   "tags": {
+    "access": "permissive",
+    "highway": "service"
+   }
+  }
+ ]
+}

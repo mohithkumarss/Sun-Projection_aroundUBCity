@@ -1,0 +1,1477 @@
+{
+ "type": "FeatureCollection",
+ "name": "UB City, Bengaluru - real OpenStreetMap building footprints",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "metadata": {
+  "generated_utc": "2026-10-01T09:40:28.441378+00:00",
+  "source": "https://api.openstreetmap.org/api/0.6/map.json",
+  "source_params": {
+   "bbox": [
+    77.5945,
+    12.971,
+    77.5965,
+    12.9725
+   ]
+  },
+  "retrieved_at_utc": "2026-10-01T09:38:26.829148+00:00",
+  "user_agent": "ub-city-shadow-research/0.1 (GIS coursework prototype; contact: local)",
+  "storage_crs": "EPSG:4326",
+  "metric_crs": "EPSG:32643",
+  "levels_derivation_enabled": false,
+  "assumed_floor_height_m": 3.0,
+  "geometry_simplification": "none (source OSM vertex coordinates retained)",
+  "ground_elevation_m": null,
+  "ground_model": "flat (z = 0 m) - see research/ASSUMPTIONS.md"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "id": "osm:way/107240643",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.594955,
+       12.9719219
+      ],
+      [
+       77.5947672,
+       12.971999
+      ],
+      [
+       77.5948155,
+       12.9722355
+      ],
+      [
+       77.5948047,
+       12.9722376
+      ],
+      [
+       77.5948332,
+       12.9723777
+      ],
+      [
+       77.5948197,
+       12.9723803
+      ],
+      [
+       77.594844,
+       12.9724992
+      ],
+      [
+       77.594833,
+       12.9725013
+      ],
+      [
+       77.5948605,
+       12.9726245
+      ],
+      [
+       77.5948736,
+       12.9726217
+      ],
+      [
+       77.5948812,
+       12.9726558
+      ],
+      [
+       77.5948706,
+       12.9726746
+      ],
+      [
+       77.594864,
+       12.9727004
+      ],
+      [
+       77.5948651,
+       12.9727269
+      ],
+      [
+       77.5948673,
+       12.9727501
+      ],
+      [
+       77.5948732,
+       12.9727727
+      ],
+      [
+       77.5948849,
+       12.9727981
+      ],
+      [
+       77.5949013,
+       12.972821
+      ],
+      [
+       77.5949111,
+       12.9728311
+      ],
+      [
+       77.5949241,
+       12.9728367
+      ],
+      [
+       77.5949396,
+       12.9728366
+      ],
+      [
+       77.5949536,
+       12.9728302
+      ],
+      [
+       77.5950944,
+       12.9727217
+      ],
+      [
+       77.5951128,
+       12.9727191
+      ],
+      [
+       77.5951482,
+       12.9726921
+      ],
+      [
+       77.595146,
+       12.9726772
+      ],
+      [
+       77.5953231,
+       12.9726452
+      ],
+      [
+       77.5953737,
+       12.9725736
+      ],
+      [
+       77.5953002,
+       12.9721868
+      ],
+      [
+       77.5952382,
+       12.972198
+      ],
+      [
+       77.5951996,
+       12.9719947
+      ],
+      [
+       77.5949764,
+       12.9720349
+      ],
+      [
+       77.594955,
+       12.9719219
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/107240643",
+    "name": null,
+    "name_en": null,
+    "building_type": "hotel",
+    "levels": 19,
+    "height_m": 50.0,
+    "min_height_m": 0.0,
+    "height_method": "OSM_exact",
+    "height_confidence": "medium",
+    "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+    "height_source_url": "https://www.openstreetmap.org/way/107240643",
+    "height_source_ref": "osm:way/107240643",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 4286.45,
+    "footprint_perimeter_m": 295.1,
+    "shadow_casting": true,
+    "vertical_model": "single_prism",
+    "building_part_ids": [],
+    "prisms": [
+     {
+      "part_osm_id": null,
+      "geometry_wgs84": {
+       "type": "Polygon",
+       "coordinates": [
+        [
+         [
+          77.594955,
+          12.9719219
+         ],
+         [
+          77.5947672,
+          12.971999
+         ],
+         [
+          77.5948155,
+          12.9722355
+         ],
+         [
+          77.5948047,
+          12.9722376
+         ],
+         [
+          77.5948332,
+          12.9723777
+         ],
+         [
+          77.5948197,
+          12.9723803
+         ],
+         [
+          77.594844,
+          12.9724992
+         ],
+         [
+          77.594833,
+          12.9725013
+         ],
+         [
+          77.5948605,
+          12.9726245
+         ],
+         [
+          77.5948736,
+          12.9726217
+         ],
+         [
+          77.5948812,
+          12.9726558
+         ],
+         [
+          77.5948706,
+          12.9726746
+         ],
+         [
+          77.594864,
+          12.9727004
+         ],
+         [
+          77.5948651,
+          12.9727269
+         ],
+         [
+          77.5948673,
+          12.9727501
+         ],
+         [
+          77.5948732,
+          12.9727727
+         ],
+         [
+          77.5948849,
+          12.9727981
+         ],
+         [
+          77.5949013,
+          12.972821
+         ],
+         [
+          77.5949111,
+          12.9728311
+         ],
+         [
+          77.5949241,
+          12.9728367
+         ],
+         [
+          77.5949396,
+          12.9728366
+         ],
+         [
+          77.5949536,
+          12.9728302
+         ],
+         [
+          77.5950944,
+          12.9727217
+         ],
+         [
+          77.5951128,
+          12.9727191
+         ],
+         [
+          77.5951482,
+          12.9726921
+         ],
+         [
+          77.595146,
+          12.9726772
+         ],
+         [
+          77.5953231,
+          12.9726452
+         ],
+         [
+          77.5953737,
+          12.9725736
+         ],
+         [
+          77.5953002,
+          12.9721868
+         ],
+         [
+          77.5952382,
+          12.972198
+         ],
+         [
+          77.5951996,
+          12.9719947
+         ],
+         [
+          77.5949764,
+          12.9720349
+         ],
+         [
+          77.594955,
+          12.9719219
+         ]
+        ]
+       ]
+      },
+      "z_bottom_m": 0.0,
+      "z_top_m": 50.0,
+      "height_m": 50.0,
+      "height_method": "OSM_exact",
+      "height_confidence": "medium"
+     }
+    ],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "air_conditioning": "yes",
+     "building": "hotel",
+     "building:colour": "#ceb78b",
+     "building:levels": "19",
+     "building:part": "yes",
+     "height": "50"
+    },
+    "osm_id": 107240643,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/331183998",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5961801,
+       12.9711273
+      ],
+      [
+       77.5964067,
+       12.9710619
+      ],
+      [
+       77.5963427,
+       12.9708511
+      ],
+      [
+       77.5961161,
+       12.9709164
+      ],
+      [
+       77.5961801,
+       12.9711273
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/331183998",
+    "name": "Bagmane",
+    "name_en": null,
+    "building_type": "commercial",
+    "levels": 3,
+    "height_m": null,
+    "min_height_m": 0.0,
+    "height_method": "unresolved",
+    "height_confidence": "none",
+    "height_source": "No documented height in OpenStreetMap. Floor count retained but NOT converted to a height (levels->height derivation is disabled by default because it would present an estimate as a measurement). This building is excluded from shadow casting.",
+    "height_source_url": "https://www.openstreetmap.org/way/331183998",
+    "height_source_ref": "osm:way/331183998",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 624.42,
+    "footprint_perimeter_m": 99.99,
+    "shadow_casting": false,
+    "vertical_model": "none",
+    "building_part_ids": [],
+    "prisms": [],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "commercial",
+     "building:levels": "3",
+     "name": "Bagmane"
+    },
+    "osm_id": 331183998,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/331184021",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5959917,
+       12.9711732
+      ],
+      [
+       77.5961393,
+       12.9711345
+      ],
+      [
+       77.5960897,
+       12.9709549
+      ],
+      [
+       77.5959421,
+       12.9709936
+      ],
+      [
+       77.5959917,
+       12.9711732
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/331184021",
+    "name": null,
+    "name_en": null,
+    "building_type": "retail",
+    "levels": null,
+    "height_m": null,
+    "min_height_m": 0.0,
+    "height_method": "unresolved",
+    "height_confidence": "none",
+    "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+    "height_source_url": "https://www.openstreetmap.org/way/331184021",
+    "height_source_ref": "osm:way/331184021",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 341.63,
+    "footprint_perimeter_m": 74.37,
+    "shadow_casting": false,
+    "vertical_model": "none",
+    "building_part_ids": [],
+    "prisms": [],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "retail"
+    },
+    "osm_id": 331184021,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/364528078",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5966064,
+       12.9718326
+      ],
+      [
+       77.5964724,
+       12.9718907
+      ],
+      [
+       77.5963982,
+       12.9719229
+      ],
+      [
+       77.5964462,
+       12.9720277
+      ],
+      [
+       77.5961055,
+       12.9721757
+      ],
+      [
+       77.5961922,
+       12.9723653
+      ],
+      [
+       77.5965124,
+       12.9722263
+      ],
+      [
+       77.5965425,
+       12.9722134
+      ],
+      [
+       77.5965667,
+       12.9722027
+      ],
+      [
+       77.5965837,
+       12.9721973
+      ],
+      [
+       77.596596,
+       12.9721734
+      ],
+      [
+       77.5966344,
+       12.9721772
+      ],
+      [
+       77.5966713,
+       12.9721664
+      ],
+      [
+       77.5967012,
+       12.9721426
+      ],
+      [
+       77.5967195,
+       12.9721095
+      ],
+      [
+       77.5967234,
+       12.9720721
+      ],
+      [
+       77.5967123,
+       12.9720361
+      ],
+      [
+       77.5966879,
+       12.972007
+      ],
+      [
+       77.5966539,
+       12.9719892
+      ],
+      [
+       77.596627,
+       12.9719865
+      ],
+      [
+       77.5966685,
+       12.9719684
+      ],
+      [
+       77.5966064,
+       12.9718326
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/364528078",
+    "name": "Comet",
+    "name_en": null,
+    "building_type": "commercial",
+    "levels": 11,
+    "height_m": 60.0,
+    "min_height_m": 0.0,
+    "height_method": "OSM_exact",
+    "height_confidence": "medium",
+    "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+    "height_source_url": "https://www.openstreetmap.org/way/364528078",
+    "height_source_ref": "osm:way/364528078",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 1802.29,
+    "footprint_perimeter_m": 207.99,
+    "shadow_casting": true,
+    "vertical_model": "single_prism",
+    "building_part_ids": [],
+    "prisms": [
+     {
+      "part_osm_id": null,
+      "geometry_wgs84": {
+       "type": "Polygon",
+       "coordinates": [
+        [
+         [
+          77.5966064,
+          12.9718326
+         ],
+         [
+          77.5964724,
+          12.9718907
+         ],
+         [
+          77.5963982,
+          12.9719229
+         ],
+         [
+          77.5964462,
+          12.9720277
+         ],
+         [
+          77.5961055,
+          12.9721757
+         ],
+         [
+          77.5961922,
+          12.9723653
+         ],
+         [
+          77.5965124,
+          12.9722263
+         ],
+         [
+          77.5965425,
+          12.9722134
+         ],
+         [
+          77.5965667,
+          12.9722027
+         ],
+         [
+          77.5965837,
+          12.9721973
+         ],
+         [
+          77.596596,
+          12.9721734
+         ],
+         [
+          77.5966344,
+          12.9721772
+         ],
+         [
+          77.5966713,
+          12.9721664
+         ],
+         [
+          77.5967012,
+          12.9721426
+         ],
+         [
+          77.5967195,
+          12.9721095
+         ],
+         [
+          77.5967234,
+          12.9720721
+         ],
+         [
+          77.5967123,
+          12.9720361
+         ],
+         [
+          77.5966879,
+          12.972007
+         ],
+         [
+          77.5966539,
+          12.9719892
+         ],
+         [
+          77.596627,
+          12.9719865
+         ],
+         [
+          77.5966685,
+          12.9719684
+         ],
+         [
+          77.5966064,
+          12.9718326
+         ]
+        ]
+       ]
+      },
+      "z_bottom_m": 0.0,
+      "z_top_m": 60.0,
+      "height_m": 60.0,
+      "height_method": "OSM_exact",
+      "height_confidence": "medium"
+     }
+    ],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "commercial",
+     "building:levels": "11",
+     "building:material": "glass",
+     "building:part": "yes",
+     "height": "60",
+     "name": "Comet"
+    },
+    "osm_id": 364528078,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/373431282",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5957922,
+       12.971952
+      ],
+      [
+       77.5958873,
+       12.9719092
+      ],
+      [
+       77.5958812,
+       12.9718969
+      ],
+      [
+       77.5958395,
+       12.9718021
+      ],
+      [
+       77.595855,
+       12.9717601
+      ],
+      [
+       77.5958147,
+       12.9717508
+      ],
+      [
+       77.5958219,
+       12.971652
+      ],
+      [
+       77.5957336,
+       12.971695
+      ],
+      [
+       77.5956153,
+       12.9716526
+      ],
+      [
+       77.5955691,
+       12.9717529
+      ],
+      [
+       77.5954568,
+       12.9718011
+      ],
+      [
+       77.5954807,
+       12.9718527
+      ],
+      [
+       77.5954642,
+       12.97186
+      ],
+      [
+       77.595534,
+       12.9720105
+      ],
+      [
+       77.5955645,
+       12.9719971
+      ],
+      [
+       77.5955861,
+       12.9720435
+      ],
+      [
+       77.595641,
+       12.9720198
+      ],
+      [
+       77.5957345,
+       12.9719782
+      ],
+      [
+       77.5957767,
+       12.9719868
+      ],
+      [
+       77.5957922,
+       12.971952
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/373431282",
+    "name": "Concorde",
+    "name_en": null,
+    "building_type": "commercial",
+    "levels": 20,
+    "height_m": 60.0,
+    "min_height_m": 0.0,
+    "height_method": "OSM_exact",
+    "height_confidence": "medium",
+    "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+    "height_source_url": "https://www.openstreetmap.org/way/373431282",
+    "height_source_ref": "osm:way/373431282",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 1267.48,
+    "footprint_perimeter_m": 156.93,
+    "shadow_casting": true,
+    "vertical_model": "single_prism",
+    "building_part_ids": [],
+    "prisms": [
+     {
+      "part_osm_id": null,
+      "geometry_wgs84": {
+       "type": "Polygon",
+       "coordinates": [
+        [
+         [
+          77.5957922,
+          12.971952
+         ],
+         [
+          77.5958873,
+          12.9719092
+         ],
+         [
+          77.5958812,
+          12.9718969
+         ],
+         [
+          77.5958395,
+          12.9718021
+         ],
+         [
+          77.595855,
+          12.9717601
+         ],
+         [
+          77.5958147,
+          12.9717508
+         ],
+         [
+          77.5958219,
+          12.971652
+         ],
+         [
+          77.5957336,
+          12.971695
+         ],
+         [
+          77.5956153,
+          12.9716526
+         ],
+         [
+          77.5955691,
+          12.9717529
+         ],
+         [
+          77.5954568,
+          12.9718011
+         ],
+         [
+          77.5954807,
+          12.9718527
+         ],
+         [
+          77.5954642,
+          12.97186
+         ],
+         [
+          77.595534,
+          12.9720105
+         ],
+         [
+          77.5955645,
+          12.9719971
+         ],
+         [
+          77.5955861,
+          12.9720435
+         ],
+         [
+          77.595641,
+          12.9720198
+         ],
+         [
+          77.5957345,
+          12.9719782
+         ],
+         [
+          77.5957767,
+          12.9719868
+         ],
+         [
+          77.5957922,
+          12.971952
+         ]
+        ]
+       ]
+      },
+      "z_bottom_m": 0.0,
+      "z_top_m": 60.0,
+      "height_m": 60.0,
+      "height_method": "OSM_exact",
+      "height_confidence": "medium"
+     }
+    ],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "commercial",
+     "building:levels": "20",
+     "building:material": "glass",
+     "building:part": "yes",
+     "height": "60",
+     "name": "Concorde",
+     "wikimedia_commons": "File:Concorde Tower Bangalore.jpg"
+    },
+    "osm_id": 373431282,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/498986775",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5957065,
+       12.9711997
+      ],
+      [
+       77.5959032,
+       12.9711484
+      ],
+      [
+       77.5956428,
+       12.9701999
+      ],
+      [
+       77.5954848,
+       12.9702411
+      ],
+      [
+       77.595666,
+       12.9709012
+      ],
+      [
+       77.5956274,
+       12.9709112
+      ],
+      [
+       77.5957065,
+       12.9711997
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/498986775",
+    "name": null,
+    "name_en": null,
+    "building_type": "school",
+    "levels": null,
+    "height_m": null,
+    "min_height_m": 0.0,
+    "height_method": "unresolved",
+    "height_confidence": "none",
+    "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+    "height_source_url": "https://www.openstreetmap.org/way/498986775",
+    "height_source_ref": "osm:way/498986775",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 2073.51,
+    "footprint_perimeter_m": 261.65,
+    "shadow_casting": false,
+    "vertical_model": "none",
+    "building_part_ids": [],
+    "prisms": [],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "school"
+    },
+    "osm_id": 498986775,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1047676496",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5947329,
+       12.9710001
+      ],
+      [
+       77.5944984,
+       12.9710342
+      ],
+      [
+       77.5944133,
+       12.9704779
+      ],
+      [
+       77.5944507,
+       12.9704725
+      ],
+      [
+       77.594447,
+       12.9704482
+      ],
+      [
+       77.5946137,
+       12.970424
+      ],
+      [
+       77.5946184,
+       12.9704553
+      ],
+      [
+       77.5946489,
+       12.9704509
+      ],
+      [
+       77.5947329,
+       12.9710001
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1047676496",
+    "name": null,
+    "name_en": null,
+    "building_type": "school",
+    "levels": null,
+    "height_m": null,
+    "min_height_m": 0.0,
+    "height_method": "unresolved",
+    "height_confidence": "none",
+    "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+    "height_source_url": "https://www.openstreetmap.org/way/1047676496",
+    "height_source_ref": "osm:way/1047676496",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 1649.54,
+    "footprint_perimeter_m": 181.44,
+    "shadow_casting": false,
+    "vertical_model": "none",
+    "building_part_ids": [],
+    "prisms": [],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "school"
+    },
+    "osm_id": 1047676496,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1125334909",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5966064,
+       12.9718326
+      ],
+      [
+       77.5965581,
+       12.9717271
+      ],
+      [
+       77.5964242,
+       12.9717853
+      ],
+      [
+       77.5964724,
+       12.9718907
+      ],
+      [
+       77.5966064,
+       12.9718326
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1125334909",
+    "name": null,
+    "name_en": null,
+    "building_type": "yes",
+    "levels": null,
+    "height_m": 60.0,
+    "min_height_m": 0.0,
+    "height_method": "OSM_exact",
+    "height_confidence": "medium",
+    "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+    "height_source_url": "https://www.openstreetmap.org/way/1125334909",
+    "height_source_ref": "osm:way/1125334909",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 203.46,
+    "footprint_perimeter_m": 57.39,
+    "shadow_casting": true,
+    "vertical_model": "single_prism",
+    "building_part_ids": [],
+    "prisms": [
+     {
+      "part_osm_id": null,
+      "geometry_wgs84": {
+       "type": "Polygon",
+       "coordinates": [
+        [
+         [
+          77.5966064,
+          12.9718326
+         ],
+         [
+          77.5965581,
+          12.9717271
+         ],
+         [
+          77.5964242,
+          12.9717853
+         ],
+         [
+          77.5964724,
+          12.9718907
+         ],
+         [
+          77.5966064,
+          12.9718326
+         ]
+        ]
+       ]
+      },
+      "z_bottom_m": 0.0,
+      "z_top_m": 60.0,
+      "height_m": 60.0,
+      "height_method": "OSM_exact",
+      "height_confidence": "medium"
+     }
+    ],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "yes",
+     "building:material": "glass",
+     "building:part": "yes",
+     "height": "60"
+    },
+    "osm_id": 1125334909,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1125334910",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5964242,
+       12.9717853
+      ],
+      [
+       77.5965581,
+       12.9717271
+      ],
+      [
+       77.5965095,
+       12.9716208
+      ],
+      [
+       77.5966566,
+       12.9715413
+      ],
+      [
+       77.5966095,
+       12.9713473
+      ],
+      [
+       77.5963562,
+       12.9714591
+      ],
+      [
+       77.596322,
+       12.9713855
+      ],
+      [
+       77.5959732,
+       12.9715372
+      ],
+      [
+       77.5960081,
+       12.9716115
+      ],
+      [
+       77.596092,
+       12.9718009
+      ],
+      [
+       77.5963759,
+       12.9716799
+      ],
+      [
+       77.5964242,
+       12.9717853
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1125334910",
+    "name": "Canberra",
+    "name_en": null,
+    "building_type": "commercial",
+    "levels": 18,
+    "height_m": 60.0,
+    "min_height_m": 0.0,
+    "height_method": "OSM_exact",
+    "height_confidence": "medium",
+    "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+    "height_source_url": "https://www.openstreetmap.org/way/1125334910",
+    "height_source_ref": "osm:way/1125334910",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 2168.28,
+    "footprint_perimeter_m": 227.94,
+    "shadow_casting": true,
+    "vertical_model": "single_prism",
+    "building_part_ids": [],
+    "prisms": [
+     {
+      "part_osm_id": null,
+      "geometry_wgs84": {
+       "type": "Polygon",
+       "coordinates": [
+        [
+         [
+          77.5964242,
+          12.9717853
+         ],
+         [
+          77.5965581,
+          12.9717271
+         ],
+         [
+          77.5965095,
+          12.9716208
+         ],
+         [
+          77.5966566,
+          12.9715413
+         ],
+         [
+          77.5966095,
+          12.9713473
+         ],
+         [
+          77.5963562,
+          12.9714591
+         ],
+         [
+          77.596322,
+          12.9713855
+         ],
+         [
+          77.5959732,
+          12.9715372
+         ],
+         [
+          77.5960081,
+          12.9716115
+         ],
+         [
+          77.596092,
+          12.9718009
+         ],
+         [
+          77.5963759,
+          12.9716799
+         ],
+         [
+          77.5964242,
+          12.9717853
+         ]
+        ]
+       ]
+      },
+      "z_bottom_m": 0.0,
+      "z_top_m": 60.0,
+      "height_m": 60.0,
+      "height_method": "OSM_exact",
+      "height_confidence": "medium"
+     }
+    ],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "commercial",
+     "building:levels": "18",
+     "building:material": "glass",
+     "building:part": "yes",
+     "height": "60",
+     "name": "Canberra"
+    },
+    "osm_id": 1125334910,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1125334913",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.596092,
+       12.9718009
+      ],
+      [
+       77.5960081,
+       12.9716115
+      ],
+      [
+       77.5959061,
+       12.9716544
+      ],
+      [
+       77.5958252,
+       12.9716884
+      ],
+      [
+       77.5959091,
+       12.9718778
+      ],
+      [
+       77.5959881,
+       12.9718446
+      ],
+      [
+       77.596092,
+       12.9718009
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1125334913",
+    "name": null,
+    "name_en": null,
+    "building_type": "yes",
+    "levels": null,
+    "height_m": null,
+    "min_height_m": 0.0,
+    "height_method": "unresolved",
+    "height_confidence": "none",
+    "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+    "height_source_url": "https://www.openstreetmap.org/way/1125334913",
+    "height_source_ref": "osm:way/1125334913",
+    "height_conflicts": [],
+    "ground_elevation_m": null,
+    "footprint_area_m2": 493.82,
+    "footprint_perimeter_m": 88.92,
+    "shadow_casting": false,
+    "vertical_model": "none",
+    "building_part_ids": [],
+    "prisms": [],
+    "address": {},
+    "operator": null,
+    "brand": null,
+    "website": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "source": "OpenStreetMap",
+    "source_tags": {
+     "building": "yes"
+    },
+    "osm_id": 1125334913,
+    "osm_type": "way",
+    "osm_version": 14,
+    "source_osm_timestamp": null
+   }
+  }
+ ]
+}
