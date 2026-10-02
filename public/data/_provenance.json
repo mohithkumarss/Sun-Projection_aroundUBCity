@@ -1,0 +1,266 @@
+{
+ "generated_utc": "2026-10-01T09:40:28.442989+00:00",
+ "study_area": {
+  "name": "UB City, Bengaluru, Karnataka, India",
+  "bbox_wgs84": [
+   77.5943,
+   12.9701,
+   77.5968,
+   12.9729
+  ],
+  "extent_m": {
+   "east_west": 270.7,
+   "north_south": 310.5
+  },
+  "selection": "Derived from the bounding box of the real OSM building cluster returned for the Nominatim geocode of UB City, padded by 10 m so that shadow polygons falling outside the built footprints remain visible. The resulting extent is compared against the 200-300 m target in the assignment."
+ },
+ "crs": {
+  "storage_crs": "EPSG:4326",
+  "storage_crs_name": "WGS 84",
+  "metric_crs": "EPSG:32643",
+  "metric_crs_name": "WGS 84 / UTM zone 43N"
+ },
+ "data_source": {
+  "name": "OpenStreetMap",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map.json",
+  "request": "https://api.openstreetmap.org/api/0.6/map.json?bbox=77.5945,12.971,77.5965,12.9725",
+  "retrieved_at_utc": "2026-10-01T09:38:26.829148+00:00",
+  "user_agent": "ub-city-shadow-research/0.1 (GIS coursework prototype; contact: local)",
+  "licence": "ODbL 1.0 (c) OpenStreetMap contributors",
+  "citation": "(c) OpenStreetMap contributors, ODbL 1.0. https://www.openstreetmap.org/copyright",
+  "why_not_overpass": "Overpass (overpass-api.de and mirrors) is unreachable from the execution environment (HTTP 406 from a filtering proxy). The main OSM API serves the same OpenStreetMap database.",
+  "known_limitation": "The main OSM API returns nodes and ways only; multipolygon buildings assembled from relations are not resolvable by this method. Any building relation in the bbox is reported and skipped."
+ },
+ "place_cross_check": {
+  "status": "ok",
+  "query": "UB City, Bengaluru, Karnataka, India",
+  "results": [
+   {
+    "osm_type": "node",
+    "osm_id": 10291118242,
+    "name": "Apple",
+    "display_name": "Apple, 24, Vittal Mallya Road, D'Souza Layout, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+    "lat": "12.9718591",
+    "lon": "77.5956698",
+    "class": null,
+    "type": "company"
+   }
+  ]
+ },
+ "summary": {
+  "buildings_total": 10,
+  "shadow_casting_buildings": 5,
+  "unresolved_height_buildings": 5,
+  "heights_by_method": {
+   "OSM_exact": 5,
+   "unresolved": 5
+  }
+ },
+ "height_methodology": {
+  "OSM_exact": "A height value is tagged in OpenStreetMap; used verbatim.",
+  "documented": "Reserved for a height taken from an external published document.",
+  "survey": "Reserved for a survey-grade measured height.",
+  "lidar": "Reserved for a height derived from a lidar/DEM dataset.",
+  "derived_from_levels": "Floor count x 3.0 m assumed floor-to-floor height. DISABLED by default (ALLOW_LEVELS_DERIVATION=False) because it is an estimate, not a measurement.",
+  "unresolved": "No documented height available. The building is displayed but excluded from shadow casting."
+ },
+ "buildings": [
+  {
+   "id": "osm:way/107240643",
+   "name": null,
+   "height_m": 50.0,
+   "levels": 19,
+   "height_method": "OSM_exact",
+   "height_confidence": "medium",
+   "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+   "height_source_url": "https://www.openstreetmap.org/way/107240643",
+   "footprint_area_m2": 4286.45,
+   "building_parts": [],
+   "vertical_model": "single_prism",
+   "shadow_casting": true,
+   "source_tags": {
+    "air_conditioning": "yes",
+    "building": "hotel",
+    "building:colour": "#ceb78b",
+    "building:levels": "19",
+    "building:part": "yes",
+    "height": "50"
+   }
+  },
+  {
+   "id": "osm:way/331183998",
+   "name": "Bagmane",
+   "height_m": null,
+   "levels": 3,
+   "height_method": "unresolved",
+   "height_confidence": "none",
+   "height_source": "No documented height in OpenStreetMap. Floor count retained but NOT converted to a height (levels->height derivation is disabled by default because it would present an estimate as a measurement). This building is excluded from shadow casting.",
+   "height_source_url": "https://www.openstreetmap.org/way/331183998",
+   "footprint_area_m2": 624.42,
+   "building_parts": [],
+   "vertical_model": "none",
+   "shadow_casting": false,
+   "source_tags": {
+    "building": "commercial",
+    "building:levels": "3",
+    "name": "Bagmane"
+   }
+  },
+  {
+   "id": "osm:way/331184021",
+   "name": null,
+   "height_m": null,
+   "levels": null,
+   "height_method": "unresolved",
+   "height_confidence": "none",
+   "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+   "height_source_url": "https://www.openstreetmap.org/way/331184021",
+   "footprint_area_m2": 341.63,
+   "building_parts": [],
+   "vertical_model": "none",
+   "shadow_casting": false,
+   "source_tags": {
+    "building": "retail"
+   }
+  },
+  {
+   "id": "osm:way/364528078",
+   "name": "Comet",
+   "height_m": 60.0,
+   "levels": 11,
+   "height_method": "OSM_exact",
+   "height_confidence": "medium",
+   "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+   "height_source_url": "https://www.openstreetmap.org/way/364528078",
+   "footprint_area_m2": 1802.29,
+   "building_parts": [],
+   "vertical_model": "single_prism",
+   "shadow_casting": true,
+   "source_tags": {
+    "building": "commercial",
+    "building:levels": "11",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Comet"
+   }
+  },
+  {
+   "id": "osm:way/373431282",
+   "name": "Concorde",
+   "height_m": 60.0,
+   "levels": 20,
+   "height_method": "OSM_exact",
+   "height_confidence": "medium",
+   "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+   "height_source_url": "https://www.openstreetmap.org/way/373431282",
+   "footprint_area_m2": 1267.48,
+   "building_parts": [],
+   "vertical_model": "single_prism",
+   "shadow_casting": true,
+   "source_tags": {
+    "building": "commercial",
+    "building:levels": "20",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Concorde",
+    "wikimedia_commons": "File:Concorde Tower Bangalore.jpg"
+   }
+  },
+  {
+   "id": "osm:way/498986775",
+   "name": null,
+   "height_m": null,
+   "levels": null,
+   "height_method": "unresolved",
+   "height_confidence": "none",
+   "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+   "height_source_url": "https://www.openstreetmap.org/way/498986775",
+   "footprint_area_m2": 2073.51,
+   "building_parts": [],
+   "vertical_model": "none",
+   "shadow_casting": false,
+   "source_tags": {
+    "building": "school"
+   }
+  },
+  {
+   "id": "osm:way/1047676496",
+   "name": null,
+   "height_m": null,
+   "levels": null,
+   "height_method": "unresolved",
+   "height_confidence": "none",
+   "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+   "height_source_url": "https://www.openstreetmap.org/way/1047676496",
+   "footprint_area_m2": 1649.54,
+   "building_parts": [],
+   "vertical_model": "none",
+   "shadow_casting": false,
+   "source_tags": {
+    "building": "school"
+   }
+  },
+  {
+   "id": "osm:way/1125334909",
+   "name": null,
+   "height_m": 60.0,
+   "levels": null,
+   "height_method": "OSM_exact",
+   "height_confidence": "medium",
+   "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+   "height_source_url": "https://www.openstreetmap.org/way/1125334909",
+   "footprint_area_m2": 203.46,
+   "building_parts": [],
+   "vertical_model": "single_prism",
+   "shadow_casting": true,
+   "source_tags": {
+    "building": "yes",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60"
+   }
+  },
+  {
+   "id": "osm:way/1125334910",
+   "name": "Canberra",
+   "height_m": 60.0,
+   "levels": 18,
+   "height_method": "OSM_exact",
+   "height_confidence": "medium",
+   "height_source": "OpenStreetMap tag `height` on way (survey/operator tagged)",
+   "height_source_url": "https://www.openstreetmap.org/way/1125334910",
+   "footprint_area_m2": 2168.28,
+   "building_parts": [],
+   "vertical_model": "single_prism",
+   "shadow_casting": true,
+   "source_tags": {
+    "building": "commercial",
+    "building:levels": "18",
+    "building:material": "glass",
+    "building:part": "yes",
+    "height": "60",
+    "name": "Canberra"
+   }
+  },
+  {
+   "id": "osm:way/1125334913",
+   "name": null,
+   "height_m": null,
+   "levels": null,
+   "height_method": "unresolved",
+   "height_confidence": "none",
+   "height_source": "No documented height in OpenStreetMap. Excluded from shadow casting.",
+   "height_source_url": "https://www.openstreetmap.org/way/1125334913",
+   "footprint_area_m2": 493.82,
+   "building_parts": [],
+   "vertical_model": "none",
+   "shadow_casting": false,
+   "source_tags": {
+    "building": "yes"
+   }
+  }
+ ],
+ "geometry_repair_log": []
+}

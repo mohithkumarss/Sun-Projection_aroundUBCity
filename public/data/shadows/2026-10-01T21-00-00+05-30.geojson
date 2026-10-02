@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "name": "UB City shadow projection 2026-10-01T21:00:00+05:30",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "metadata": {
+  "timestamp": "2026-10-01T21:00:00+05:30",
+  "local_time": "21:00",
+  "date_local": "2026-10-01",
+  "timezone": "Asia/Kolkata",
+  "solar_azimuth_deg": 277.36442,
+  "solar_elevation_deg": -42.284716,
+  "solar_zenith_deg": 132.284716,
+  "sun_above_horizon": false,
+  "shadow_emitted": false,
+  "shadow_azimuth_deg": 97.36442,
+  "active_building_shadows": 0,
+  "total_shadow_area_m2": 0.0,
+  "total_shadow_area_in_study_area_m2": 0.0,
+  "max_shadow_length_m": 0.0,
+  "study_area_m2": 84119.1,
+  "shadow_coverage_percent": 0.0,
+  "truncated": false,
+  "max_shadow_length_m_limit": 1000.0,
+  "min_shadow_elevation_deg": 0.1,
+  "occlusion": {
+   "per_building": {},
+   "method": "not computed (sun below threshold)"
+  },
+  "computed_in_crs": "EPSG:32643",
+  "exported_in_crs": "EPSG:4326"
+ },
+ "features": []
+}

@@ -1,0 +1,694 @@
+{
+ "type": "FeatureCollection",
+ "name": "UB City shadow projection 2026-10-01T17:00:00+05:30",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:4326"
+  }
+ },
+ "metadata": {
+  "timestamp": "2026-10-01T17:00:00+05:30",
+  "local_time": "17:00",
+  "date_local": "2026-10-01",
+  "timezone": "Asia/Kolkata",
+  "solar_azimuth_deg": 262.662245,
+  "solar_elevation_deg": 16.062723,
+  "solar_zenith_deg": 73.937277,
+  "sun_above_horizon": true,
+  "shadow_emitted": true,
+  "shadow_azimuth_deg": 82.662245,
+  "active_building_shadows": 5,
+  "total_shadow_area_m2": 66243.011,
+  "total_shadow_area_in_study_area_m2": 34772.176,
+  "max_shadow_length_m": 208.384,
+  "study_area_m2": 84119.1,
+  "shadow_coverage_percent": 41.3368,
+  "truncated": false,
+  "max_shadow_length_m_limit": 1000.0,
+  "min_shadow_elevation_deg": 0.1,
+  "occlusion": {
+   "per_building": {
+    "osm:way/107240643": {
+     "samples": 95,
+     "shaded_samples": 0,
+     "shaded_fraction": 0.0,
+     "shaded_by": {}
+    },
+    "osm:way/364528078": {
+     "samples": 69,
+     "shaded_samples": 69,
+     "shaded_fraction": 1.0,
+     "shaded_by": {
+      "osm:way/107240643": 38,
+      "osm:way/373431282": 31
+     }
+    },
+    "osm:way/373431282": {
+     "samples": 94,
+     "shaded_samples": 3,
+     "shaded_fraction": 0.0319,
+     "shaded_by": {
+      "osm:way/107240643": 3
+     }
+    },
+    "osm:way/1125334909": {
+     "samples": 80,
+     "shaded_samples": 80,
+     "shaded_fraction": 1.0,
+     "shaded_by": {
+      "osm:way/373431282": 79,
+      "osm:way/1125334910": 1
+     }
+    },
+    "osm:way/1125334910": {
+     "samples": 85,
+     "shaded_samples": 9,
+     "shaded_fraction": 0.1059,
+     "shaded_by": {
+      "osm:way/373431282": 9
+     }
+    }
+   },
+   "method": "sun-vector ray test against other buildings' shadow volumes",
+   "samples_per_prism": 12
+  },
+  "computed_in_crs": "EPSG:32643",
+  "exported_in_crs": "EPSG:4326"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "id": "osm:way/107240643@17:00",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5948197,
+       12.972380299999998
+      ],
+      [
+       77.594844,
+       12.9724992
+      ],
+      [
+       77.594833,
+       12.972501299999998
+      ],
+      [
+       77.59486050000001,
+       12.972624500000002
+      ],
+      [
+       77.59487458879026,
+       12.972626136546603
+      ],
+      [
+       77.5948812,
+       12.972655799999998
+      ],
+      [
+       77.5948706,
+       12.972674600000001
+      ],
+      [
+       77.594864,
+       12.972700399999999
+      ],
+      [
+       77.5948651,
+       12.972726899999998
+      ],
+      [
+       77.5948673,
+       12.972750099999999
+      ],
+      [
+       77.5948732,
+       12.9727727
+      ],
+      [
+       77.5948849,
+       12.9727981
+      ],
+      [
+       77.5949013,
+       12.972821000000001
+      ],
+      [
+       77.5949111,
+       12.972831099999997
+      ],
+      [
+       77.5949241,
+       12.972836700000002
+      ],
+      [
+       77.596512607667,
+       12.973021214355828
+      ],
+      [
+       77.59652810765918,
+       12.973021114258989
+      ],
+      [
+       77.59654210761109,
+       12.97301471417918
+      ],
+      [
+       77.59668290684026,
+       12.972906213430102
+      ],
+      [
+       77.59670130681485,
+       12.972903613318158
+      ],
+      [
+       77.59673670662288,
+       12.972876613129486
+      ],
+      [
+       77.59673450652699,
+       12.972861713161334
+      ],
+      [
+       77.59691160623692,
+       12.972829712092338
+      ],
+      [
+       77.59696220574783,
+       12.972758111862733
+      ],
+      [
+       77.59688870326616,
+       12.972371312792065
+      ],
+      [
+       77.59682313054519,
+       12.97236369638673
+      ],
+      [
+       77.59678810206339,
+       12.97217921365454
+      ],
+      [
+       77.59655209717967,
+       12.972151800975427
+      ],
+      [
+       77.59654350170307,
+       12.972106415272911
+      ],
+      [
+       77.594955,
+       12.971921899999998
+      ],
+      [
+       77.5947672,
+       12.971999000000002
+      ],
+      [
+       77.5948155,
+       12.9722355
+      ],
+      [
+       77.5948047,
+       12.9722376
+      ],
+      [
+       77.5948332,
+       12.9723777
+      ],
+      [
+       77.5948197,
+       12.972380299999998
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "building_id": "osm:way/107240643",
+    "timestamp": "2026-10-01T17:00:00+05:30",
+    "local_time": "17:00",
+    "date_local": "2026-10-01",
+    "timezone": "Asia/Kolkata",
+    "solar_azimuth_deg": 262.662245,
+    "solar_elevation_deg": 16.062723,
+    "solar_zenith_deg": 73.937277,
+    "sun_above_horizon": true,
+    "shadow_azimuth_deg": 82.662245,
+    "shadow_direction": "E",
+    "height_m": 50.0,
+    "height_method": "OSM_exact",
+    "shadow_area_m2": 21918.967,
+    "shadow_area_in_study_area_m2": 20276.554,
+    "shadow_perimeter_m": 633.748,
+    "max_shadow_length_m": 173.653,
+    "max_shadow_length_natural_m": 173.653,
+    "truncated_at_max_length": false,
+    "dominant_direction": {
+     "azimuth_deg": 172.662,
+     "length_m": 50.477,
+     "angle_from_north_deg": 172.662,
+     "description": "S"
+    },
+    "prism_count": 1,
+    "crs_calculated_in": "EPSG:32643",
+    "crs_exported_in": "EPSG:4326"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/364528078@17:00",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5961055,
+       12.9721757
+      ],
+      [
+       77.5961922,
+       12.972365299999998
+      ],
+      [
+       77.59809840487272,
+       12.972586707175399
+      ],
+      [
+       77.59841860360986,
+       12.972447704974414
+      ],
+      [
+       77.59844870349245,
+       12.972434804767268
+      ],
+      [
+       77.59847290339549,
+       12.972424104601211
+      ],
+      [
+       77.59848990334389,
+       12.972418704481473
+      ],
+      [
+       77.59850220315053,
+       12.972394804423978
+      ],
+      [
+       77.59854060315882,
+       12.972398604130193
+      ],
+      [
+       77.59857750305402,
+       12.97238780386895
+      ],
+      [
+       77.59860740285164,
+       12.972364003679198
+      ],
+      [
+       77.59862570258315,
+       12.97233090359008
+      ],
+      [
+       77.5986296022891,
+       12.972293503615319
+      ],
+      [
+       77.59861850201429,
+       12.972257503751116
+      ],
+      [
+       77.59859410180076,
+       12.972228403976684
+      ],
+      [
+       77.59856010168076,
+       12.972210604257846
+      ],
+      [
+       77.59853397032417,
+       12.972207569214845
+      ],
+      [
+       77.5985747015103,
+       12.972189804178573
+      ],
+      [
+       77.598512600485,
+       12.972054004842654
+      ],
+      [
+       77.5966064,
+       12.971832599999999
+      ],
+      [
+       77.5964724,
+       12.971890699999998
+      ],
+      [
+       77.5963982,
+       12.971922899999997
+      ],
+      [
+       77.5964462,
+       12.972027699999996
+      ],
+      [
+       77.5961055,
+       12.9721757
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "building_id": "osm:way/364528078",
+    "timestamp": "2026-10-01T17:00:00+05:30",
+    "local_time": "17:00",
+    "date_local": "2026-10-01",
+    "timezone": "Asia/Kolkata",
+    "solar_azimuth_deg": 262.662245,
+    "solar_elevation_deg": 16.062723,
+    "solar_zenith_deg": 73.937277,
+    "sun_above_horizon": true,
+    "shadow_azimuth_deg": 82.662245,
+    "shadow_direction": "E",
+    "height_m": 60.0,
+    "height_method": "OSM_exact",
+    "shadow_area_m2": 15106.905,
+    "shadow_area_in_study_area_m2": 3446.327,
+    "shadow_perimeter_m": 624.586,
+    "max_shadow_length_m": 208.384,
+    "max_shadow_length_natural_m": 208.384,
+    "truncated_at_max_length": false,
+    "dominant_direction": {
+     "azimuth_deg": 352.662,
+     "length_m": 31.923,
+     "angle_from_north_deg": 352.662,
+     "description": "N"
+    },
+    "prism_count": 1,
+    "crs_calculated_in": "EPSG:32643",
+    "crs_exported_in": "EPSG:4326"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/373431282@17:00",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5954807,
+       12.9718527
+      ],
+      [
+       77.5954642,
+       12.971860000000001
+      ],
+      [
+       77.595534,
+       12.9720105
+      ],
+      [
+       77.59557283803223,
+       12.972015011331258
+      ],
+      [
+       77.5955861,
+       12.9720435
+      ],
+      [
+       77.59749230269802,
+       12.972264912193937
+      ],
+      [
+       77.59754720248256,
+       12.972241211816373
+      ],
+      [
+       77.59763411091039,
+       12.972202543786931
+      ],
+      [
+       77.59768290214963,
+       12.972208210845858
+      ],
+      [
+       77.59769840186942,
+       12.972173410780218
+      ],
+      [
+       77.59779350148254,
+       12.97213061012874
+      ],
+      [
+       77.59778740138995,
+       12.972118310192451
+      ],
+      [
+       77.59774570067327,
+       12.9720235106436
+      ],
+      [
+       77.59776120033689,
+       12.971981510588453
+      ],
+      [
+       77.5977209002867,
+       12.971972210904505
+      ],
+      [
+       77.59772809951166,
+       12.971873410994423
+      ],
+      [
+       77.5958219,
+       12.971651999999999
+      ],
+      [
+       77.59578111613602,
+       12.97167186077695
+      ],
+      [
+       77.5956153,
+       12.971652599999997
+      ],
+      [
+       77.5955691,
+       12.971752900000002
+      ],
+      [
+       77.5954568,
+       12.971801099999999
+      ],
+      [
+       77.5954807,
+       12.9718527
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "building_id": "osm:way/373431282",
+    "timestamp": "2026-10-01T17:00:00+05:30",
+    "local_time": "17:00",
+    "date_local": "2026-10-01",
+    "timezone": "Asia/Kolkata",
+    "solar_azimuth_deg": 262.662245,
+    "solar_elevation_deg": 16.062723,
+    "solar_zenith_deg": 73.937277,
+    "sun_above_horizon": true,
+    "shadow_azimuth_deg": 82.662245,
+    "shadow_direction": "E",
+    "height_m": 60.0,
+    "height_method": "OSM_exact",
+    "shadow_area_m2": 10896.509,
+    "shadow_area_in_study_area_m2": 6325.397,
+    "shadow_perimeter_m": 570.696,
+    "max_shadow_length_m": 208.384,
+    "max_shadow_length_natural_m": 208.384,
+    "truncated_at_max_length": false,
+    "dominant_direction": {
+     "azimuth_deg": 352.662,
+     "length_m": 23.023,
+     "angle_from_north_deg": 352.662,
+     "description": "N"
+    },
+    "prism_count": 1,
+    "crs_calculated_in": "EPSG:32643",
+    "crs_exported_in": "EPSG:4326"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1125334909@17:00",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5964724,
+       12.971890699999998
+      ],
+      [
+       77.59837860101294,
+       12.972112105763806
+      ],
+      [
+       77.598512600485,
+       12.972054004842654
+      ],
+      [
+       77.5984642996885,
+       12.971948505358974
+      ],
+      [
+       77.5965581,
+       12.971727099999997
+      ],
+      [
+       77.5964242,
+       12.9717853
+      ],
+      [
+       77.5964724,
+       12.971890699999998
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "building_id": "osm:way/1125334909",
+    "timestamp": "2026-10-01T17:00:00+05:30",
+    "local_time": "17:00",
+    "date_local": "2026-10-01",
+    "timezone": "Asia/Kolkata",
+    "solar_azimuth_deg": 262.662245,
+    "solar_elevation_deg": 16.062723,
+    "solar_zenith_deg": 73.937277,
+    "sun_above_horizon": true,
+    "shadow_azimuth_deg": 82.662245,
+    "shadow_direction": "E",
+    "height_m": 60.0,
+    "height_method": "OSM_exact",
+    "shadow_area_m2": 4179.04,
+    "shadow_area_in_study_area_m2": 695.529,
+    "shadow_perimeter_m": 474.161,
+    "max_shadow_length_m": 208.384,
+    "max_shadow_length_natural_m": 208.384,
+    "truncated_at_max_length": false,
+    "dominant_direction": {
+     "azimuth_deg": 352.662,
+     "length_m": 9.539,
+     "angle_from_north_deg": 352.662,
+     "description": "N"
+    },
+    "prism_count": 1,
+    "crs_calculated_in": "EPSG:32643",
+    "crs_exported_in": "EPSG:4326"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "osm:way/1125334910@17:00",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.5960081,
+       12.971611500000002
+      ],
+      [
+       77.596092,
+       12.971800900000002
+      ],
+      [
+       77.59799820052358,
+       12.972022308750045
+      ],
+      [
+       77.59809810900867,
+       12.971979726305376
+      ],
+      [
+       77.59833040021716,
+       12.972006706279222
+      ],
+      [
+       77.5984642996885,
+       12.971948505358974
+      ],
+      [
+       77.59841569888594,
+       12.971842205878703
+      ],
+      [
+       77.59856279818372,
+       12.971762704890441
+      ],
+      [
+       77.59851569669591,
+       12.97156870552674
+      ],
+      [
+       77.5966095,
+       12.971347299999998
+      ],
+      [
+       77.59648108597521,
+       12.971403978634699
+      ],
+      [
+       77.596322,
+       12.971385499999998
+      ],
+      [
+       77.5959732,
+       12.971537199999998
+      ],
+      [
+       77.5960081,
+       12.971611500000002
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "building_id": "osm:way/1125334910",
+    "timestamp": "2026-10-01T17:00:00+05:30",
+    "local_time": "17:00",
+    "date_local": "2026-10-01",
+    "timezone": "Asia/Kolkata",
+    "solar_azimuth_deg": 262.662245,
+    "solar_elevation_deg": 16.062723,
+    "solar_zenith_deg": 73.937277,
+    "sun_above_horizon": true,
+    "shadow_azimuth_deg": 82.662245,
+    "shadow_direction": "E",
+    "height_m": 60.0,
+    "height_method": "OSM_exact",
+    "shadow_area_m2": 14141.59,
+    "shadow_area_in_study_area_m2": 4028.37,
+    "shadow_perimeter_m": 629.106,
+    "max_shadow_length_m": 208.384,
+    "max_shadow_length_natural_m": 208.384,
+    "truncated_at_max_length": false,
+    "dominant_direction": {
+     "azimuth_deg": 352.662,
+     "length_m": 28.235,
+     "angle_from_north_deg": 352.662,
+     "description": "N"
+    },
+    "prism_count": 1,
+    "crs_calculated_in": "EPSG:32643",
+    "crs_exported_in": "EPSG:4326"
+   }
+  }
+ ]
+}
